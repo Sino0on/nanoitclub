@@ -1,0 +1,134 @@
+[{
+        "id": 984,
+        "first_name": "Абдразаков Бейшенбек Токторбаевич",
+        "username": "abdrazakov9487",
+        "new_password": "MYFxGMNPLb"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "id": 958,
+        "first_name": "Кошалиев Кадырали Амиракулович",
+        "username": "koshaliev2392",
+        "new_password": "Rc5TgQu3xP"
+    },
+    {
+        "id": 14,
+        "first_name": "Бекмуратов Баймурат Асатович",
+        "username": "bekmuratov7446",
+        "new_password": "rZ9su8uLP6"
+    },
+    {
+        "id": 144,
+        "first_name": "Ибрагимов Бекболот",
+        "username": "ibragimov1768",
+        "new_password": "vHTqc2fg2Q"
+    },
+
+    {
+        "id": 304,
+        "first_name": "Ниязалиева Дамира Абаскановна",
+        "username": "nijazalieva7911",
+        "new_password": "sXezGsWS5G"
+    },
+    {
+        "id": 654,
+        "first_name": "Зулпуев Абдивап Момунович",
+        "username": "zulpuev2362",
+        "new_password": "3pZdaCA49Z"
+    },
+    {
+        "id": 751,
+        "first_name": "Сарымсаков Каныбек Кубанычбекович",
+        "username": "sarymsakov5840",
+        "new_password": "wGcE23hqg4"
+    },
+    {
+        "id": 530,
+        "first_name": "Эсентуров Асылмырза Нурбекович",
+        "username": "esenturov4661",
+        "new_password": "2EHBh8hehD"
+    },{
+        "id": 1009,
+        "first_name": "Садиков Улугбек Чирмашович",
+        "username": "sadikov8711",
+        "new_password": "GPQHBx3Fea"
+    },
+    {
+        "id": 67,
+        "first_name": "Айкынов Хаит Исраилович",
+        "username": "ajkynov6367",
+        "new_password": "zRtPM42kYS"
+    },
+    {
+        "id": 134,
+        "first_name": "Борбиев Абдыразак Акынбаевич",
+        "username": "borbiev7782",
+        "new_password": "fmjGP4kbXG"
+    },
+
+    {
+        "id": 326,
+        "first_name": "Казиев Токтосун Сатыбалдиевич",
+        "username": "kaziev7193",
+        "new_password": "8u6PM3t7Up"
+    },
+    {
+        "id": 622,
+        "first_name": "Туйчиев Шеркузу",
+        "username": "tujchiev1606",
+        "new_password": "nArTnrf3Lj"
+    },
+     {
+        "id": 374,
+        "first_name": "Султанбаев Абдыкадыр Дарданович",
+        "username": "sultanbaev3660",
+        "new_password": "bhgGaeaCzc"
+    },
+    {
+        "id": 874,
+        "first_name": "Шаршеев Анарбек Джумабекович",
+        "username": "sharsheev2787",
+        "new_password": "EnN95uesvA"
+    },
+    {
+        "id": 453,
+        "first_name": "Карымшаков Дүйшенбек Абдылдаевич",
+        "username": "karymshakov2249",
+        "new_password": "7gspXErtvJ"
+    },
+    {
+        "id": 923,
+        "first_name": "Кувандыков Саламат Асанович",
+        "username": "kuvandykov9850",
+        "new_password": "Hex5NbNx22"
+    },
+    {
+        "id": 1017,
+        "first_name": "Ракиев Замир Шейшенбекович",
+        "username": "rakiev365",
+        "new_password": "Hex5NbNx22"
+    }
+]

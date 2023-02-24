@@ -1,0 +1,1015 @@
+0 {'id': 289, 'first_name': 'Аалиев Курманбек Макелович', 'username': 'aaliev3014', 'new_password': 'auYxLdEjdk'}
+1 {'id': 736, 'first_name': 'Абакиров Тилек Болотбекович', 'username': 'abakirov7163', 'new_password': 'vdJpFTALmE'}
+2 {'id': 70, 'first_name': 'Абасов Төлөгөн', 'username': 'abasov3403', 'new_password': 'CLhKZedWuE'}
+3 {'id': 629, 'first_name': 'Абдакимов Мирзахмат', 'username': 'abdakimov1631', 'new_password': 'kwY5CF9wKs'}
+4 {'id': 235, 'first_name': 'Абдарсулов Аралбек Черикчиевич', 'username': 'abdarsulov4705', 'new_password': 'MUbB75fMfr'}
+5 {'id': 782, 'first_name': 'Абдашев Тынчтык Обозбекович', 'username': 'abdashev8813', 'new_password': 'nNejDSnX5Y'}
+6 {'id': 703, 'first_name': 'Абдибаев Акматали Култекович', 'username': 'abdibaev1916', 'new_password': 'uCQmnAmKeq'}
+7 {'id': 635, 'first_name': 'Абдибаитов Алымкул', 'username': 'abdibaitov8183', 'new_password': '3bEpRs7wYd'}
+8 {'id': 620, 'first_name': 'Абдибаитов Камилжан', 'username': 'abdibaitov5968', 'new_password': 'jbUNzrH4Wj'}
+9 {'id': 532, 'first_name': 'Абдиев Султанбек Болушевич', 'username': 'abdiev9164', 'new_password': 'DrqbP5t6T8'}
+10 {'id': 4, 'first_name': 'Абдиразаков Улан Миталипович', 'username': 'abdirazakov1375', 'new_password': 'z8E3eECFtr'}
+11 {'id': 506, 'first_name': 'Абдраев Темирбек Толокович', 'username': 'abdraev8199', 'new_password': 'DuGhkVspag'}
+12 {'id': 984, 'first_name': 'Абдразаков Бейшенбек Токторбаевич', 'username': 'abdrazakov9487', 'new_password': 'MYFxGMNPLb'}
+13 {'id': 639, 'first_name': 'Абдразакова Сурма', 'username': 'abdrazakova7428', 'new_password': '3DyaqXj6pz'}
+14 {'id': 916, 'first_name': 'Абдраимов Темирлан Жумагулович', 'username': 'abdraimov5260', 'new_password': 'GefyfCAuhd'}
+15 {'id': 609, 'first_name': 'Абдракманов Сактанбек Ураимович', 'username': 'abdrakmanov8700', 'new_password': 'DtV5KbUNny'}
+16 {'id': 130, 'first_name': 'Абдрахманов Нурали Эралиевич', 'username': 'abdrahmanov3289', 'new_password': 'mgjEjw7kUb'}
+17 {'id': 757, 'first_name': 'Абдрахманов Оморбек Абдиевич', 'username': 'abdrahmanov2401', 'new_password': 'adRacLQUzJ'}
+18 {'id': 652, 'first_name': 'Абдувалиев Нематилла', 'username': 'abduvaliev6594', 'new_password': 'aenQ53Xj8U'}
+19 {'id': 987, 'first_name': 'Абдукадыров Тохтосын Кимсанбаевич', 'username': 'abdukadyrov2141', 'new_password': 'MRs4vzs55v'}
+20 {'id': 127, 'first_name': 'Абдукаримов Максытали Мамырович', 'username': 'abdukarimov4135', 'new_password': 'tJWXUUbM8k'}
+21 {'id': 566, 'first_name': 'Абдукаримова Ферузахон Халдарбаевна', 'username': 'abdukarimova6394', 'new_password': 'VxGRwDP6Lj'}
+22 {'id': 110, 'first_name': 'Абдуллаев Ахмаджан Закиржанович', 'username': 'abdullaev3931', 'new_password': 'MewaBDuUFd'}
+23 {'id': 114, 'first_name': 'Абдумуталип уулу Руслан', 'username': 'abdumutalip1375', 'new_password': 'gsvQBmJBcE'}
+24 {'id': 62, 'first_name': 'Абдурахманов Садирдин Эргешович', 'username': 'abdurahmanov6029', 'new_password': 'b8QyvJH7nn'}
+25 {'id': 598, 'first_name': 'Абдыкадыров', 'username': 'abdykadyrov4179', 'new_password': 'XwJg4SVwHw'}
+26 {'id': 129, 'first_name': 'Абдыкадыров Асылбек Ашимбекович', 'username': 'abdykadyrov2112', 'new_password': 'vrvsBxr9TY'}
+27 {'id': 512, 'first_name': 'Абдыкадыров Улан Борончуевич', 'username': 'abdykadyrov4014', 'new_password': 'zAdcc7utFf'}
+28 {'id': 21, 'first_name': 'Абдыкалык уулу Шержан', 'username': 'abdykalyk1860', 'new_password': '3MPN2ZKwzn'}
+29 {'id': 488, 'first_name': 'Абдыкеримов Чыныбек Асангазиевич', 'username': 'abdykerimov6418', 'new_password': 'eznAFxbQv7'}
+30 {'id': 944, 'first_name': 'Абдыкулова Айнура Джуманалиевна', 'username': 'abdykulova4392', 'new_password': 'vatthEgn7Q'}
+31 {'id': 154, 'first_name': 'Абдылбапов Барпыбай', 'username': 'abdylbapov7031', 'new_password': 'vU6FzQUmU6'}
+32 {'id': 546, 'first_name': 'Абдылдаев Абдыкапар', 'username': 'abdyldaev7041', 'new_password': '9EnGpqjNG8'}
+33 {'id': 905, 'first_name': 'Абдылдаев Адылбек', 'username': 'abdyldaev4710', 'new_password': 'xgkRNgrLZZ'}
+34 {'id': 907, 'first_name': 'Абдылдаев Жайдарбек Емилбекович', 'username': 'abdyldaev6519', 'new_password': 'vrQCCaB6gT'}
+35 {'id': 897, 'first_name': 'Абдылдаев Лимбек', 'username': 'abdyldaev2742', 'new_password': 'Xs7NwhJpZu'}
+36 {'id': 715, 'first_name': 'Абдылдаев Мыктыбек Юсупович', 'username': 'abdyldaev4215', 'new_password': 'Mcw7vamGPV'}
+37 {'id': 271, 'first_name': 'Абдылдаев Сабырбек', 'username': 'abdyldaev7729', 'new_password': 'RZepaeYMw2'}
+38 {'id': 457, 'first_name': 'Абдылдаев Эрлан Кубанычбекович', 'username': 'abdyldaev5331', 'new_password': '3XktXrXRCf'}
+39 {'id': 988, 'first_name': 'Абдыразаков Эркинбек', 'username': 'abdyrazakov8266', 'new_password': 'vW2vzeQbEm'}
+40 {'id': 772, 'first_name': 'Абдыразакова Гульжамийла Максимбековна', 'username': 'abdyrazakova7358', 'new_password': 'nYQkrHhgpV'}
+41 {'id': 183, 'first_name': 'Абдыраимова Айдаң', 'username': 'abdyraimova8815', 'new_password': 'CzWBQ4CmAt'}
+42 {'id': 415, 'first_name': 'Абдыракманов Турдубек', 'username': 'abdyrakmanov2891', 'new_password': '5jrDnX7rTR'}
+43 {'id': 577, 'first_name': 'Абдырахманов Бекташ Жумабаевич', 'username': 'abdyrahmanov2609', 'new_password': '6GcMkL88a5'}
+44 {'id': 850, 'first_name': 'Абдырахманов Шабданбай Жутакевич', 'username': 'abdyrahmanov5424', 'new_password': 'dJFqjrGXLS'}
+45 {'id': 272, 'first_name': 'Абдырсулов Аскарбек', 'username': 'abdyrsulov9049', 'new_password': '3nLKefKYdM'}
+46 {'id': 356, 'first_name': 'Абдышов Курманкул Абжалбекович', 'username': 'abdyshov6252', 'new_password': 'fVXC8gjQHv'}
+47 {'id': 459, 'first_name': 'Абетекова', 'username': 'abetekova8580', 'new_password': 'sGsVXXBHV3'}
+48 {'id': 201, 'first_name': 'Абибакир уулу Жылдызбек', 'username': 'abibakir2220', 'new_password': 'SSTvXnBz27'}
+49 {'id': 761, 'first_name': 'Абилесов Дженишбек Медетбекович', 'username': 'abilesov3816', 'new_password': '3V9ajzRfD5'}
+50 {'id': 509, 'first_name': 'Абитов Джаннат Уркалыевич', 'username': 'abitov4691', 'new_password': 'D74JAXmcdZ'}
+51 {'id': 124, 'first_name': 'Абласанов Токтобек Козубаевич', 'username': 'ablasanov1922', 'new_password': 'kSKeJeweZw'}
+52 {'id': 480, 'first_name': 'Абылаев Саламат Аманкалыевич', 'username': 'abylaev8700', 'new_password': 'JAcSYxr8Sa'}
+53 {'id': 18, 'first_name': 'Абылкасымов Аслан Эгембердиевич', 'username': 'abylkasymov9302', 'new_password': 'Vm663Bj9vQ'}
+54 {'id': 955, 'first_name': 'Абылов Ажыбек Ибраимбекович', 'username': 'abylov9993', 'new_password': 'BHqH3572Lq'}
+55 {'id': 498, 'first_name': 'Абылов Эдил Талантбекович', 'username': 'abylov5074', 'new_password': 'dSgtCGBFLy'}
+56 {'id': 210, 'first_name': 'Абытканова Рабшан', 'username': 'abytkanova2905', 'new_password': 't4t8JgASpP'}
+57 {'id': 690, 'first_name': 'Авазов Абдилажан', 'username': 'avazov3062', 'new_password': 'Sx3HDdECMB'}
+58 {'id': 800, 'first_name': 'Аджиева Кулжан Алымбаева', 'username': 'adzhieva7695', 'new_password': 'P5L79B9gc9'}
+59 {'id': 853, 'first_name': 'Аджыгулов Жеңишбек Сагыналиевич', 'username': 'adzhygulov6338', 'new_password': 'ZQdp8f67vT'}
+60 {'id': 630, 'first_name': 'Адиева Чолпонай Абдираимовна', 'username': 'adieva3148', 'new_password': 'APS3Wm7eP9'}
+61 {'id': 302, 'first_name': 'Адисов Жоробай', 'username': 'adisov4042', 'new_password': 'yEpaz82Abz'}
+62 {'id': 644, 'first_name': 'Ажикулов Турсунали', 'username': 'azhikulov3947', 'new_password': 'jSsC5LhKww'}
+63 {'id': 634, 'first_name': 'Ажимаматов Абдилатип Момунович', 'username': 'azhimamatov7970', 'new_password': 'j3EHVhuM5h'}
+64 {'id': 587, 'first_name': 'Ажимаматов Болотбек Окенович', 'username': 'azhimamatov1637', 'new_password': '7SJQqhQ9FJ'}
+65 {'id': 901, 'first_name': 'Ажыбаев Жаныбек Бейшенович', 'username': 'azhybaev8430', 'new_password': 'WgUmPyXCGL'}
+66 {'id': 319, 'first_name': 'Ажыбаев Турсунбек Рысмендеевич', 'username': 'azhybaev5761', 'new_password': '7e9XejHCcK'}
+67 {'id': 146, 'first_name': 'Ажыматов Шайырбек Мустапакулович', 'username': 'azhymatov3944', 'new_password': '3qLQ7kA3Ae'}
+68 {'id': 686, 'first_name': 'Азизов Абдыгапар', 'username': 'azizov1436', 'new_password': 'bXUUkDWPBu'}
+69 {'id': 462, 'first_name': 'Азизов Кубанычбек Сагынович', 'username': 'azizov4963', 'new_password': 'VnMp8wMBwT'}
+70 {'id': 295, 'first_name': 'Азискан уулу Эрланбек', 'username': 'aziskan4544', 'new_password': '9WnWnGf3aY'}
+71 {'id': 581, 'first_name': 'Айдарбеков Дамирбек Исаевич', 'username': 'ajdarbekov3180', 'new_password': 'rv4gLyWw5F'}
+72 {'id': 575, 'first_name': 'Айдаров Акматаалы Мурзаевич', 'username': 'ajdarov6298', 'new_password': 'CRf7fqjN3g'}
+73 {'id': 404, 'first_name': 'Айдаров Джакыпбек Алишерович', 'username': 'ajdarov6205', 'new_password': 'LRFNpwPksr'}
+74 {'id': 29, 'first_name': 'Айдарова Рахима', 'username': 'ajdarova4023', 'new_password': 'qpuwetgYDM'}
+75 {'id': 8, 'first_name': 'Айдосова Асылкан Сайфидиновна', 'username': 'ajdosova9145', 'new_password': 'heb4vpEZ55'}
+76 {'id': 67, 'first_name': 'Айкынов Хаит Исраилович', 'username': 'ajkynov6367', 'new_password': 'zRtPM42kYS'}
+77 {'id': 230, 'first_name': 'Айманов Урматбек Муканбетович', 'username': 'ajmanov7812', 'new_password': 'tpwwZ8ZurP'}
+78 {'id': 478, 'first_name': 'Айсаракунов Эрлан Асанкадырович', 'username': 'ajsarakunov9630', 'new_password': '7BN9WqmSPx'}
+79 {'id': 358, 'first_name': 'Айтбаев Каныбек', 'username': 'ajtbaev5960', 'new_password': 'dKv3cBpwsD'}
+80 {'id': 631, 'first_name': 'Айтиев Авазбек Табалдыевич', 'username': 'ajtiev5778', 'new_password': 'b2tPy8ymYf'}
+81 {'id': 584, 'first_name': 'Айтиев Марип Мамиевич', 'username': 'ajtiev7744', 'new_password': 'd6xyYj3aPc'}
+82 {'id': 516, 'first_name': 'Айткожоев Данияр Кудайбергенович', 'username': 'ajtkozhoev3304', 'new_password': 'wT4z2pNY8r'}
+83 {'id': 559, 'first_name': 'Айтмаматов Кубанычбек Халилович', 'username': 'ajtmamatov8305', 'new_password': 'PLLZw9rRz2'}
+84 {'id': 624, 'first_name': 'Айтматов Абдулла Баратович', 'username': 'ajtmatov6989', 'new_password': 'GLh7n9u24a'}
+85 {'id': 792, 'first_name': 'Айтыкулов Бектур Сагыналиевич', 'username': 'ajtykulov7806', 'new_password': 'pZGU9ufmna'}
+86 {'id': 344, 'first_name': 'Айтышов Нурланбек Токтосунович', 'username': 'ajtyshov1743', 'new_password': 'KzgwyV3STn'}
+87 {'id': 911, 'first_name': 'Айылчиев Чыңгыз Джилоевич', 'username': 'ajylchiev3822', 'new_password': 'cdPmU3eLgM'}
+88 {'id': 556, 'first_name': 'Акаева Жыргал Кубанычовна', 'username': 'akaeva1648', 'new_password': 'xgGSM6JZRN'}
+89 {'id': 989, 'first_name': 'Акимбаев Орозбек Кулмаматович', 'username': 'akimbaev3931', 'new_password': 'RmjbmxSVJE'}
+90 {'id': 677, 'first_name': 'Аккулов Абдыгапар Ураимович', 'username': 'akkulov4224', 'new_password': 'ZDb57S3W7q'}
+91 {'id': 264, 'first_name': 'Акматалиев Акназар Кубатбекович', 'username': 'akmataliev8473', 'new_password': 'L6CbK8BBqF'}
+92 {'id': 714, 'first_name': 'Акматказиев Максатбек Асыкбаевич', 'username': 'akmatkaziev5183', 'new_password': 'MUWCzRHJRZ'}
+93 {'id': 904, 'first_name': 'Акматкалый уулу Азат', 'username': 'akmatkalyj2525', 'new_password': 'DWYynH55LC'}
+94 {'id': 867, 'first_name': 'Акматов Замир Кылычбекович', 'username': 'akmatov3393', 'new_password': '7GNHPWW6KR'}
+95 {'id': 206, 'first_name': 'Акматов Кубаныч', 'username': 'akmatov2383', 'new_password': '6Q5Avu8QFX'}
+96 {'id': 895, 'first_name': 'Акматов Кубанычбек Карыпович', 'username': 'akmatov9346', 'new_password': 'zWaPYWvdWf'}
+97 {'id': 679, 'first_name': 'Акматова Санабар Кежебаевна', 'username': 'akmatova5907', 'new_password': '9B35bKwTnU'}
+98 {'id': 848, 'first_name': 'Акназарова Жумабюбю', 'username': 'aknazarova8472', 'new_password': '37hc86hLq3'}
+99 {'id': 263, 'first_name': 'Акунов Раис', 'username': 'akunov1262', 'new_password': 'DXMkRRPLaP'}
+100 {'id': 753, 'first_name': 'Акчалов Марс Рыспекович', 'username': 'akchalov6630', 'new_password': '2gev6mMXfs'}
+101 {'id': 880, 'first_name': 'Акылбекова Сайнал Шаршеевна', 'username': 'akylbekova2844', 'new_password': 'NWwvZkHWSN'}
+102 {'id': 841, 'first_name': 'Алабачаев Эмиль Джаманкулович', 'username': 'alabachaev1358', 'new_password': 'WXknZK3wX8'}
+103 {'id': 222, 'first_name': 'Алакунов Жалилбек Сагынович', 'username': 'alakunov3769', 'new_password': 'Y9SvKYeWVf'}
+104 {'id': 773, 'first_name': 'Аланкозов Туратбек Саындыкович', 'username': 'alankozov4883', 'new_password': 'cdDupFGuS9'}
+105 {'id': 233, 'first_name': 'Алдаяров Замир Султанбекович', 'username': 'aldajarov3633', 'new_password': '2kGRJWUu9u'}
+106 {'id': 35, 'first_name': 'Алибаев Абдумиталип Шарабидинович', 'username': 'alibaev9182', 'new_password': 'AJd6Kbf74W'}
+107 {'id': 964, 'first_name': 'Алибеков Болотбек Раевич', 'username': 'alibekov2042', 'new_password': '9yjGgpBBDw'}
+108 {'id': 423, 'first_name': 'Алиев Жалил Эмисович', 'username': 'aliev8607', 'new_password': 'uRmKQMv9ZQ'}
+109 {'id': 937, 'first_name': 'Алиев Саматбек Тукешович', 'username': 'aliev5093', 'new_password': 'aRmR884y8U'}
+110 {'id': 665, 'first_name': 'Алиева Катиракан Турдумаматовна', 'username': 'alieva9463', 'new_password': 'bVDYfWZQHD'}
+111 {'id': 26, 'first_name': 'Алиева Сайидахан', 'username': 'alieva1732', 'new_password': '8BCV7SBEHN'}
+112 {'id': 873, 'first_name': 'Аликеев Эсенаман Насирович', 'username': 'alikeev6614', 'new_password': 'K67XarJ95r'}
+113 {'id': 590, 'first_name': 'Алишов Жакшылык Калыбекович', 'username': 'alishov6619', 'new_password': 'q7FrZVtPFw'}
+114 {'id': 477, 'first_name': 'Алмабеков Айбек Турсунович', 'username': 'almabekov5147', 'new_password': 'BxdHJUdSAu'}
+115 {'id': 246, 'first_name': 'Алмакунов Кенжебек Төлөмүшович', 'username': 'almakunov9987', 'new_password': 'ZCYjNYvrHc'}
+116 {'id': 279, 'first_name': 'Алсейитов Уланбек Сагынбекович', 'username': 'alsejitov1607', 'new_password': 'cWVumdpaQt'}
+117 {'id': 363, 'first_name': 'Алтымышев Таалайбек Алымкулович', 'username': 'altymyshev4723', 'new_password': 'Lc9zf7uuNM'}
+118 {'id': 138, 'first_name': 'Алыбаев Абдрашит Шыгаевич', 'username': 'alybaev3190', 'new_password': 'KPpuWF2y8G'}
+119 {'id': 740, 'first_name': 'Алыбаев Таалайбек Джуманазарович', 'username': 'alybaev1733', 'new_password': 'WGv5J3DfUk'}
+120 {'id': 448, 'first_name': 'Алыбаев Талантбек Сабатарович', 'username': 'alybaev9175', 'new_password': '2fYyPsjq2U'}
+121 {'id': 838, 'first_name': 'Алыбаев Улан Бердишалиевич', 'username': 'alybaev4641', 'new_password': 'H3z9yMg26Y'}
+122 {'id': 168, 'first_name': 'Алыбекова Салима Асанбековна', 'username': 'alybekova6630', 'new_password': '8pfwFsBybH'}
+123 {'id': 990, 'first_name': 'Алыкулов Алмазбек Абдуллаевич', 'username': 'alykulov4678', 'new_password': 'A4amYCZbLs'}
+124 {'id': 215, 'first_name': 'Алыкулов Жиенбек', 'username': 'alykulov9696', 'new_password': 'EqqFsp3wWd'}
+125 {'id': 811, 'first_name': 'Алыкулов Марс Таштанович', 'username': 'alykulov4985', 'new_password': '67F3GptNAm'}
+126 {'id': 922, 'first_name': 'Алымбеков Бакыт Кумарович', 'username': 'alymbekov4805', 'new_password': 'caRseZKf7w'}
+127 {'id': 366, 'first_name': 'Алымбеков Нурлан Анаркулович', 'username': 'alymbekov3119', 'new_password': 'NuYyFGGyKA'}
+128 {'id': 724, 'first_name': 'Алымкулов Көлбай Бейшебаевич', 'username': 'alymkulov9452', 'new_password': 'TLfwhQ7mYy'}
+129 {'id': 375, 'first_name': 'Алымкулов Эрнис Ажыбекович', 'username': 'alymkulov9542', 'new_password': 'PpqJFqhqum'}
+130 {'id': 763, 'first_name': 'Альджимбаев Басан Арпекович', 'username': "al'dzhimbaev4973", 'new_password': 'NuXFJZFffD'}
+131 {'id': 487, 'first_name': 'Аманатов Канат Садырбекович', 'username': 'amanatov9883', 'new_password': 'SqsbYmL8ar'}
+132 {'id': 306, 'first_name': 'Аманбаев Баттал Апасович', 'username': 'amanbaev3186', 'new_password': 'fR3AUWEfMe'}
+133 {'id': 680, 'first_name': 'Амангеди уулу Нурумбет', 'username': 'amangedi1447', 'new_password': 'bujw2Rnzrx'}
+134 {'id': 562, 'first_name': 'Аманов Эркинбай Таштемирович', 'username': 'amanov9151', 'new_password': 'v4NHJ7C4WX'}
+135 {'id': 534, 'first_name': 'Аматбеков Азамат Орунбекович', 'username': 'amatbekov8388', 'new_password': 'ghFtLFeYBZ'}
+136 {'id': 583, 'first_name': 'Аматов Момунали Маширапович', 'username': 'amatov9285', 'new_password': '7Z33R6S8hE'}
+137 {'id': 557, 'first_name': 'Амираев Абдыганы Акжолович', 'username': 'amiraev9946', 'new_password': 'kArs9qtwxD'}
+138 {'id': 13, 'first_name': 'Амиракулов Абдималик Абдиманнанович', 'username': 'amirakulov1827', 'new_password': 't9bgs8rRVm'}
+139 {'id': 142, 'first_name': 'Анарбаева Гулнора Абдуманоповна', 'username': 'anarbaeva1454', 'new_password': 'ccyjtLSHhf'}
+140 {'id': 971, 'first_name': 'Анарбеков Окенбек Турдубекович', 'username': 'anarbekov5768', 'new_password': 'zt2CMexC8N'}
+141 {'id': 74, 'first_name': 'Анаркулов Эрмек Момункулович', 'username': 'anarkulov6030', 'new_password': 'tUFBJGznrj'}
+142 {'id': 278, 'first_name': 'Аракеев Асейин Абдраманович', 'username': 'arakeev6748', 'new_password': 'C34gYAsbDn'}
+143 {'id': 145, 'first_name': 'Арапбаев', 'username': 'arapbaev4085', 'new_password': 'Hjt5anqbHL'}
+144 {'id': 808, 'first_name': 'Аргымбаев Сапарбек Абдыкалыевич', 'username': 'argymbaev9099', 'new_password': '8DdgxHjXrD'}
+145 {'id': 991, 'first_name': 'Арзибаев Алмазбек Төлөнович', 'username': 'arzibaev6537', 'new_password': 'GVF4xCuR6Q'}
+146 {'id': 879, 'first_name': 'Арзыматов Руслан Кемелович', 'username': 'arzymatov2267', 'new_password': 'bqpETV3RNk'}
+147 {'id': 436, 'first_name': 'Арипов  Нурбек Джуматаевич', 'username': 'aripov1958', 'new_password': 'eeWyHv8zYG'}
+148 {'id': 778, 'first_name': 'Аристокиев Жолдошбек', 'username': 'aristokiev3822', 'new_password': 'reLtuCYh87'}
+149 {'id': 200, 'first_name': 'Арстанбеков Ильяс Кадырбекович', 'username': 'arstanbekov4572', 'new_password': '5gumb5Tcmq'}
+150 {'id': 697, 'first_name': 'Арунова Орунбу', 'username': 'arunova9964', 'new_password': 'JG8AUrrX4Z'}
+151 {'id': 178, 'first_name': 'Арыкбаев Нурбек Сансызбекович', 'username': 'arykbaev8635', 'new_password': 'g22xE9Rnjt'}
+152 {'id': 721, 'first_name': 'Асакеева Бурул', 'username': 'asakeeva5945', 'new_password': 'qAsvMPsjeq'}
+153 {'id': 258, 'first_name': 'Асаналиев Эркинбек Эсенович', 'username': 'asanaliev4947', 'new_password': '7M7AphTwZc'}
+154 {'id': 234, 'first_name': 'Асанбаев Майрамбек Жекшенович', 'username': 'asanbaev6079', 'new_password': '9EcrhGKDJu'}
+155 {'id': 915, 'first_name': 'Асанов Белек', 'username': 'asanov9439', 'new_password': 'df5TDHnHjk'}
+156 {'id': 348, 'first_name': 'Асанов Курманбек Абдышевич', 'username': 'asanov1169', 'new_password': 'E9rjQ6hXwL'}
+157 {'id': 615, 'first_name': 'Асанов Нурмамат Камалович', 'username': 'asanov9627', 'new_password': 'BAk92mWFWb'}
+158 {'id': 788, 'first_name': 'Аскербек уулу Автандил', 'username': 'askerbek8489', 'new_password': 'pHNvrCYgTb'}
+159 {'id': 920, 'first_name': 'Асыгалиев Эркинбек Карыбекович', 'username': 'asygaliev2554', 'new_password': 'Z2AM3yK429'}
+160 {'id': 770, 'first_name': 'Асылбаева Клара', 'username': 'asylbaeva7241', 'new_password': 'mu7QLRQsS7'}
+161 {'id': 910, 'first_name': 'Асыпбеков Ильгиз Турдубекович', 'username': 'asypbekov4390', 'new_password': 'PWfgrcanXE'}
+162 {'id': 790, 'first_name': 'Атабекова Назгүл Жаныбековна', 'username': 'atabekova6734', 'new_password': 'tDB3eYc8e6'}
+163 {'id': 992, 'first_name': 'Атажанов Адылжан Юлдашевич', 'username': 'atazhanov9311', 'new_password': 'Mnp6fCzRgh'}
+164 {'id': 150, 'first_name': 'Атаканов Шакиржан', 'username': 'atakanov2715', 'new_password': 'wawMCQn8Lk'}
+165 {'id': 906, 'first_name': 'Атаянов Кумбек Раматович', 'username': 'atajanov1815', 'new_password': '55yaG3Df8B'}
+166 {'id': 582, 'first_name': 'Аттокуров Таалайбек Шарабидинович', 'username': 'attokurov7781', 'new_password': 'utbjVwL6ZW'}
+167 {'id': 993, 'first_name': 'Аттокуров Шакир', 'username': 'attokurov5029', 'new_password': 'YeWtU9TNK9'}
+168 {'id': 239, 'first_name': 'Аттокурова Сымбаткан Кадыровна', 'username': 'attokurova6101', 'new_password': 'QqNJXzrRtm'}
+169 {'id': 446, 'first_name': 'Атыгаев Талгарт Ашымович', 'username': 'atygaev7751', 'new_password': 'XyWwWHrxV9'}
+170 {'id': 369, 'first_name': 'Аубакиров Машатбек Ажибекович', 'username': 'aubakirov1627', 'new_password': 'pkGuMVPE45'}
+171 {'id': 628, 'first_name': 'Ахмедов Ислом Хасанбаевич', 'username': 'ahmedov2928', 'new_password': 'rVMCYPVKYV'}
+172 {'id': 32, 'first_name': 'Ахунов Турсунали Абдишукурович', 'username': 'ahunov6672', 'new_password': 'M3YxYLTdXX'}
+173 {'id': 454, 'first_name': 'Ашимов Кубатбек Чынтемирович', 'username': 'ashimov9826', 'new_password': 'D3AekCPzLz'}
+174 {'id': 360, 'first_name': 'Аширалиев Кеңешбек Масалбекович', 'username': 'ashiraliev7305', 'new_password': 'nPu5p3c6MY'}
+175 {'id': 23, 'first_name': 'Аширбай уулу Жоомарт', 'username': 'ashirbaj6112', 'new_password': 'SyW2zygqN5'}
+176 {'id': 603, 'first_name': 'Аширов Рамазан Джамакович', 'username': 'ashirov3728', 'new_password': 'KejN8TvEqk'}
+177 {'id': 781, 'first_name': 'Ашыралиев Асан', 'username': 'ashyraliev6488', 'new_password': '4PyKu9VVFK'}
+178 {'id': 959, 'first_name': 'Ашыралиев Кемел Жакешович', 'username': 'ashyraliev3847', 'new_password': 'PAMQMV7hRP'}
+179 {'id': 318, 'first_name': 'Ашырбеков Бактыгул Сапарбекович', 'username': 'ashyrbekov9120', 'new_password': 'WMVmhUSR4R'}
+180 {'id': 705, 'first_name': 'Баатыркулов Пайзидин Мурзабекович', 'username': 'baatyrkulov5767', 'new_password': 'hJfmCbYVpG'}
+181 {'id': 610, 'first_name': 'Бадалов Ганишер Абдуллаевич', 'username': 'badalov3927', 'new_password': 'GL7un3h3dH'}
+182 {'id': 45, 'first_name': 'Баев Мунарбек\nЭгембердиевич', 'username': 'baev1369', 'new_password': 'zmcWkg6BHY'}
+183 {'id': 9, 'first_name': 'Баетов Медербек Мурзабекович', 'username': 'baetov5734', 'new_password': 'GCpkaKMLHA'}
+184 {'id': 335, 'first_name': 'Базаркулов Чыныбек Эрматович', 'username': 'bazarkulov7562', 'new_password': '567XFfCXek'}
+185 {'id': 189, 'first_name': 'Базарова Апал', 'username': 'bazarova4925', 'new_password': 'QmU6dPacEQ'}
+186 {'id': 994, 'first_name': 'Базиева Ирсалат Октомовна', 'username': 'bazieva4454', 'new_password': 'DVeAYdFEqG'}
+187 {'id': 746, 'first_name': 'Байбеков Төлөнбек Шаршенович', 'username': 'bajbekov8451', 'new_password': 'JbYtvbAJrN'}
+188 {'id': 259, 'first_name': 'Байгазиева Назира Арыпжановна', 'username': 'bajgazieva7371', 'new_password': 'gCxmJ3psYr'}
+189 {'id': 427, 'first_name': 'Байгубатов Эркин Жыргалбекович', 'username': 'bajgubatov8870', 'new_password': 'JAbfscRfVk'}
+190 {'id': 913, 'first_name': 'Байдалиев Эсенкара Асанбекович', 'username': 'bajdaliev2194', 'new_password': '9UTjWpY3cZ'}
+191 {'id': 96, 'first_name': 'Баймуратов Данияр Эргешович', 'username': 'bajmuratov4451', 'new_password': '7jUCAH5gdW'}
+192 {'id': 843, 'first_name': 'Байрамкулова Динар', 'username': 'bajramkulova1415', 'new_password': 'DFt2TrCtSY'}
+193 {'id': 370, 'first_name': 'Байсеитов Иманбек', 'username': 'bajseitov3332', 'new_password': 'f3g2hXrtj9'}
+194 {'id': 396, 'first_name': 'Байтиков Каныбек Темирбекович', 'username': 'bajtikov8742', 'new_password': '8YdCsMLVhv'}
+195 {'id': 966, 'first_name': 'Байшериев Рахатбек Мухаммедиевич', 'username': 'bajsheriev1967', 'new_password': 'hU95CxsqQV'}
+196 {'id': 377, 'first_name': 'Байысбеков Джанышбек', 'username': 'bajysbekov2694', 'new_password': '76aUUNGGDf'}
+197 {'id': 208, 'first_name': 'Бакалаев Рахатбек Кенжекулович', 'username': 'bakalaev3302', 'new_password': 'PjysaHb9Hn'}
+198 {'id': 750, 'first_name': 'Бакасова Акбермет', 'username': 'bakasova7192', 'new_password': 'ScMntsEuWV'}
+199 {'id': 940, 'first_name': 'Бакетаев Бакыт Кушбекович', 'username': 'baketaev3911', 'new_password': 'EBtNW42ZnV'}
+200 {'id': 187, 'first_name': 'Бакиев Эстебес', 'username': 'bakiev7178', 'new_password': 'Lj2YmwMaLb'}
+201 {'id': 758, 'first_name': 'Бакирдинов Назирдин Толубаевич', 'username': 'bakirdinov4881', 'new_password': 'apVjh4Hvt9'}
+202 {'id': 489, 'first_name': 'Бакирова Айнагуль Абдразаковна', 'username': 'bakirova7149', 'new_password': '8RrzWtUrQJ'}
+203 {'id': 995, 'first_name': 'Бакыев Айдар\nКурманбекович', 'username': 'bakyev9218', 'new_password': '8DQ3EX9ySz'}
+204 {'id': 996, 'first_name': 'Балбыров Эрлан Рахманалиевич', 'username': 'balbyrov5492', 'new_password': 'tA8MEdQMjy'}
+205 {'id': 101, 'first_name': 'Балтабаев Алишер Орозович', 'username': 'baltabaev7441', 'new_password': 'TLkN3ZCpjj'}
+206 {'id': 37, 'first_name': 'Балтабаев Зулпукар', 'username': 'baltabaev7039', 'new_password': 'fuA2pndNvN'}
+207 {'id': 290, 'first_name': 'Балтабев Эрикбек Жумалиевич', 'username': 'baltabev4304', 'new_password': 'KcrzPP7Eqq'}
+208 {'id': 997, 'first_name': 'Баргибаева Назгул Муктаровна', 'username': 'bargibaeva6486', 'new_password': 'YWfE4K9SjU'}
+209 {'id': 77, 'first_name': 'Барпиев Райымкул Абдраимович', 'username': 'barpiev3093', 'new_password': 'r42WJ7z7NT'}
+210 {'id': 502, 'first_name': 'Барыктабасов Жоомартбек Апасович', 'username': 'baryktabasov2156', 'new_password': 'YVwku3Dmr9'}
+211 {'id': 998, 'first_name': 'Батиров Равшанбек Батирович', 'username': 'batirov1523', 'new_password': 'Jqrt7bKm7Q'}
+212 {'id': 353, 'first_name': 'Батырбеков Узарбек Джалилович', 'username': 'batyrbekov1080', 'new_password': 'dNhjSNP3sX'}
+213 {'id': 464, 'first_name': 'Баялиев Кебек Абдразакович', 'username': 'bajaliev4795', 'new_password': 'NwKb6ztehj'}
+214 {'id': 771, 'first_name': 'Баялиев Максат Картанбекович', 'username': 'bajaliev3414', 'new_password': 'pKJZqnuxe3'}
+215 {'id': 383, 'first_name': 'Баялиев Максатбек Бейшенбекович', 'username': 'bajaliev8849', 'new_password': 'zTjztjSkvS'}
+216 {'id': 55, 'first_name': 'Бегматов Камалидин Хабибиллаевич', 'username': 'begmatov7759', 'new_password': 'WEaFRwhGWv'}
+217 {'id': 220, 'first_name': 'Бейшебаев Качыке Мамбетович', 'username': 'bejshebaev7048', 'new_password': 'cc5HW9ZAZB'}
+218 {'id': 393, 'first_name': 'Бейшебаев Миндибек Аттокурович', 'username': 'bejshebaev2530', 'new_password': 'bfJHyuRasM'}
+219 {'id': 465, 'first_name': 'Бейшекеева Бактыгүл Серкебаевна', 'username': 'bejshekeeva1585', 'new_password': 'mH6QbSeG8Q'}
+220 {'id': 288, 'first_name': 'Бейшембиев Шамбет', 'username': 'bejshembiev4672', 'new_password': 'PfDXgF48jL'}
+221 {'id': 237, 'first_name': 'Бейшеналиев Илимгазы Айыпович', 'username': 'bejshenaliev4864', 'new_password': '5KwHbSwp6h'}
+222 {'id': 925, 'first_name': 'Бейшеналиев Эмиль Ишенович', 'username': 'bejshenaliev6749', 'new_password': 'p9BWVxD3Pm'}
+223 {'id': 311, 'first_name': 'Бекеев Айбек\nТынайбекович', 'username': 'bekeev1025', 'new_password': 'pFmWP5RYHb'}
+224 {'id': 14, 'first_name': 'Бекмуратов Баймурат Асатович', 'username': 'bekmuratov7446', 'new_password': 'rZ9su8uLP6'}
+225 {'id': 600, 'first_name': 'Бекмурзаев Абдикарим Молдокалович', 'username': 'bekmurzaev9249', 'new_password': 'TYfZWQ4MRR'}
+226 {'id': 653, 'first_name': 'Бекмурзаев Абдыразхман Тургунбаевич', 'username': 'bekmurzaev7319', 'new_password': 'nBetLVcVH7'}
+227 {'id': 174, 'first_name': 'Бекмурзаев Сыймык Бекмурзаевич', 'username': 'bekmurzaev9266', 'new_password': 'RB4NdgMSTj'}
+228 {'id': 681, 'first_name': 'Беков Данияр Исманалиевич', 'username': 'bekov5521', 'new_password': '6mJXcAbn2z'}
+229 {'id': 818, 'first_name': 'Бексултанов Бактияр Пронпекович', 'username': 'beksultanov6067', 'new_password': 'C4YKfpcWPT'}
+230 {'id': 133, 'first_name': 'Бекташов Саткынбай', 'username': 'bektashov2441', 'new_password': 's6WKNkrZhX'}
+231 {'id': 730, 'first_name': 'Бектемиров Абдижапар', 'username': 'bektemirov5403', 'new_password': 'SA5CaJvcXz'}
+232 {'id': 17, 'first_name': 'Бектемиров Мусурманкул Мухаммедович', 'username': 'bektemirov8251', 'new_password': 'unVnmFwb8d'}
+233 {'id': 956, 'first_name': 'Бектуров Кадыркул Бектурович', 'username': 'bekturov8199', 'new_password': 'cabbRseKF2'}
+234 {'id': 461, 'first_name': 'Бектурова Шайыгүл Советовна', 'username': 'bekturova7127', 'new_password': 'Pm5KqRQm5m'}
+235 {'id': 524, 'first_name': 'Бектурсунов Санжарбек Муратбекович', 'username': 'bektursunov7816', 'new_password': 'jAttNqtncD'}
+236 {'id': 675, 'first_name': 'Бердалиев Бакыт Чырмашбаевич', 'username': 'berdaliev8549', 'new_password': '6WDK7DtsR4'}
+237 {'id': 514, 'first_name': 'Бердибек уулу Достук', 'username': 'berdibek3524', 'new_password': 'Ceea2xyK9c'}
+238 {'id': 765, 'first_name': 'Бердигулов Аскарбек Мыкышович', 'username': 'berdigulov4336', 'new_password': 'CKhKHqmvgJ'}
+239 {'id': 774, 'first_name': 'Бешимбаев Кабылбек Бешимбаевич', 'username': 'beshimbaev2447', 'new_password': 'CQj5m9hmg8'}
+240 {'id': 166, 'first_name': 'Бешубаков Абазбек', 'username': 'beshubakov8541', 'new_password': 'MZkUGNUYCz'}
+241 {'id': 312, 'first_name': 'Бийсеев Надырбек Касымбекович', 'username': 'bijseev3954', 'new_password': 'b3RvjZYEte'}
+242 {'id': 205, 'first_name': 'Бийчиев Асылбек Орунбаевич', 'username': 'bijchiev9302', 'new_password': 'mrgVZLyJVa'}
+243 {'id': 113, 'first_name': 'Божуев', 'username': 'bozhuev6598', 'new_password': 'jBjf6BMVSr'}
+244 {'id': 381, 'first_name': 'Болокбаев Сатыбалды Кожобекович', 'username': 'bolokbaev9804', 'new_password': '2dDgprS3zW'}
+245 {'id': 364, 'first_name': 'Болотбеков Акылбек Исмаилович', 'username': 'bolotbekov5635', 'new_password': 'EJjsFv3krM'}
+246 {'id': 515, 'first_name': 'Болтуруков Данияр Омурбекович', 'username': 'bolturukov3886', 'new_password': 'xwPGThfNb2'}
+247 {'id': 814, 'first_name': 'Больджикеева Кулюмкан Абдуманатовна', 'username': "bol'dzhikeeva5022", 'new_password': 'kwTUdHDPsS'}
+248 {'id': 845, 'first_name': 'Бообеков Бекжан Калмурзаевич', 'username': 'boobekov5152', 'new_password': 'puHLawBQeS'}
+249 {'id': 593, 'first_name': 'Бопоев Турдакун Турдуевич', 'username': 'bopoev1584', 'new_password': 'qFnY7y9CGF'}
+250 {'id': 134, 'first_name': 'Борбиев Абдыразак Акынбаевич', 'username': 'borbiev7782', 'new_password': 'fmjGP4kbXG'}
+251 {'id': 169, 'first_name': 'Борбиев Борошбек Аскарович', 'username': 'borbiev7669', 'new_password': 'ydEBrzpM26'}
+252 {'id': 745, 'first_name': 'Боржикеев Өмүрбек', 'username': 'borzhikeev6646', 'new_password': '2dubJ52vRX'}
+253 {'id': 661, 'first_name': 'Боркош уулу Дамирбек', 'username': 'borkosh3518', 'new_password': '38z7HxeHwH'}
+254 {'id': 49, 'first_name': 'Боркошов Шүкүрбек Бектемирович', 'username': 'borkoshov7503', 'new_password': 'nNTgjRzDfw'}
+255 {'id': 829, 'first_name': 'Боров Мухарме Ихрович', 'username': 'borov9686', 'new_password': '8KnMMzkhCQ'}
+256 {'id': 986, 'first_name': 'Боронбаев Эгемберди Рыскулович', 'username': 'boronbaev1812', 'new_password': 'tF6KCYut3q'}
+257 {'id': 979, 'first_name': 'Боталиев Бакыт Мелисбеков', 'username': 'botaliev8416', 'new_password': 'PfPz2XERDP'}
+258 {'id': 361, 'first_name': 'Ботобеков Кенжебек Эсенбекович', 'username': 'botobekov4252', 'new_password': 'TpY6UMb6Xt'}
+259 {'id': 338, 'first_name': 'Бугубаев Эркинбек Билалович', 'username': 'bugubaev3039', 'new_password': 'cJ5gxG9RnM'}
+260 {'id': 447, 'first_name': 'Буланбеков Алишер Молдокматович', 'username': 'bulanbekov5393', 'new_password': 'jcrACv2hP8'}
+261 {'id': 42, 'first_name': 'Бурханов Бекулан Козумуратович', 'username': 'burhanov7660', 'new_password': 'uecP9yd5Cd'}
+262 {'id': 256, 'first_name': 'Буурабаев Төрөбек Абдыкеевич', 'username': 'buurabaev5975', 'new_password': 'msMnzZmQKt'}
+263 {'id': 597, 'first_name': 'Бөтөнөев Советбек Сапарбекович', 'username': 'bөtөnөev4788', 'new_password': '3kWPCGNARW'}
+264 {'id': 769, 'first_name': 'Гапаров Махмуд Тойгонбаевич', 'username': 'gaparov4031', 'new_password': 'qtXt2ydUXx'}
+265 {'id': 682, 'first_name': 'Гүрөнов Мамасали', 'username': 'gүrөnov3481', 'new_password': 'a7YYUjSKvh'}
+266 {'id': 443, 'first_name': 'Давлетов Алмаз Нурединович', 'username': 'davletov2477', 'new_password': 'UgdjdAu9BM'}
+267 {'id': 86, 'first_name': 'Давлетов Аскарбек Эргешович', 'username': 'davletov7548', 'new_password': 'rs6A7TUBgL'}
+268 {'id': 324, 'first_name': 'Дадакбаев Сыргак Турганович', 'username': 'dadakbaev7144', 'new_password': 'UkpCrXKEsB'}
+269 {'id': 999, 'first_name': 'Далбаева Азизахан', 'username': 'dalbaeva7121', 'new_password': 'KDqhWftz7c'}
+270 {'id': 196, 'first_name': 'Дарданкүев Эрлан Муканбетович', 'username': 'dardankүev5792', 'new_password': 'xC9ysurxNC'}
+271 {'id': 804, 'first_name': 'Дербишев Дуулат Темирбекович', 'username': 'derbishev3770', 'new_password': 'Pkx2dR5kv2'}
+272 {'id': 946, 'first_name': 'Джайчибеков Бекбосун Карабекович', 'username': 'dzhajchibekov5485', 'new_password': 'FmdGapYBsw'}
+273 {'id': 103, 'first_name': 'Джакиев Раимбек Напиевич', 'username': 'dzhakiev7318', 'new_password': '5B74WeRTRy'}
+274 {'id': 799, 'first_name': 'Джаналиев Кенжебек Бектурович', 'username': 'dzhanaliev2974', 'new_password': 'udVa7pkddQ'}
+275 {'id': 434, 'first_name': 'Джансеркеев Бекжан Керимкулович', 'username': 'dzhanserkeev1266', 'new_password': '6cmj92nUGk'}
+276 {'id': 733, 'first_name': 'Джанызаков Замирбек Казакбаевич', 'username': 'dzhanyzakov4662', 'new_password': 'mLRudvaVZg'}
+277 {'id': 412, 'first_name': 'Джапаров Алымкул Кадыркулович', 'username': 'dzhaparov5883', 'new_password': 'VHTUfFJBvR'}
+278 {'id': 608, 'first_name': 'Джолдошова Жылдызкан Айтибаевна', 'username': 'dzholdoshova9135', 'new_password': 'DTsbr5TFE3'}
+279 {'id': 938, 'first_name': 'Джумабаев Бердибек Абдраимович', 'username': 'dzhumabaev9693', 'new_password': 'bAfzJs24ZR'}
+280 {'id': 529, 'first_name': 'Джумабекова Акылсайра Кадыралиевна', 'username': 'dzhumabekova1322', 'new_password': '3y8Yn6DAxg'}
+281 {'id': 894, 'first_name': 'Джумагазиев Чынгыз Джумагазиевич', 'username': 'dzhumagaziev4928', 'new_password': 'VdUmyQ2bBj'}
+282 {'id': 833, 'first_name': 'Джумагулов Эркин Кимович', 'username': 'dzhumagulov7414', 'new_password': '8fHJgmLtcG'}
+283 {'id': 823, 'first_name': 'Джумакеев Шайлообек Асанбаевич', 'username': 'dzhumakeev8493', 'new_password': 'KJZZ3vJ4Zv'}
+284 {'id': 722, 'first_name': 'Джуманалиев Эсен Табалдиевич', 'username': 'dzhumanaliev4503', 'new_password': 'nu36zhuEMb'}
+285 {'id': 384, 'first_name': 'Джумашев Райымберди Токтосунович', 'username': 'dzhumashev3557', 'new_password': 'UYPcYgXtjJ'}
+286 {'id': 1000, 'first_name': 'Джураев Шукурбек Мамасадыкович', 'username': 'dzhuraev4123', 'new_password': 'aXazKz4UzC'}
+287 {'id': 777, 'first_name': 'Джурсуналиев Акылбек Джекшенбекович', 'username': 'dzhursunaliev6702', 'new_password': 'hYzs5cd2dS'}
+288 {'id': 720, 'first_name': 'Джусуров Тилек', 'username': 'dzhusurov1351', 'new_password': 'uDtTHxShZ3'}
+289 {'id': 553, 'first_name': 'Дияров Ормошбек Турдакунович', 'username': 'dijarov2501', 'new_password': 'jJkqaGpV8K'}
+290 {'id': 969, 'first_name': 'Дойбулов Нурис Тойчубекович', 'username': 'dojbulov8717', 'new_password': 'FyFxZSrKH3'}
+291 {'id': 899, 'first_name': 'Долбаев Жартыбек Сабитканович', 'username': 'dolbaev7825', 'new_password': 'tjQFXawqKS'}
+292 {'id': 881, 'first_name': 'Дооронбекова Аида Солтонбековна', 'username': 'dooronbekova3879', 'new_password': 'D5CZntsGQb'}
+293 {'id': 617, 'first_name': 'Доранбек уулу Жоомарт', 'username': 'doranbek9492', 'new_password': 'rFqFjTgubg'}
+294 {'id': 213, 'first_name': 'Доронкулов Карим Айтмырзаевич', 'username': 'doronkulov8463', 'new_password': '4CVKBD9XRn'}
+295 {'id': 190, 'first_name': 'Досматов Керимбек Сапарович', 'username': 'dosmatov5713', 'new_password': 'j8SfhB3zPe'}
+296 {'id': 342, 'first_name': 'Доулбеков Азейинкул Сагыналиевич', 'username': 'doulbekov6754', 'new_password': '9ZQrrAcv7n'}
+297 {'id': 672, 'first_name': 'Дуйшебаев Абдурасул Рахманович', 'username': 'dujshebaev2723', 'new_password': 'za53rdEMdV'}
+298 {'id': 486, 'first_name': 'Дуйшембиев Улан Жолдошбекович', 'username': 'dujshembiev6968', 'new_password': 'JqxmeYzELa'}
+299 {'id': 903, 'first_name': 'Дунканаев Дастан Токонович', 'username': 'dunkanaev2811', 'new_password': 'Rj9R5EEghq'}
+300 {'id': 484, 'first_name': 'Дыйкамбаев Айбек Мукамбетович', 'username': 'dyjkambaev9375', 'new_password': 'NPyGzkgpaC'}
+301 {'id': 417, 'first_name': 'Дыйкамбаев Күлчоро Сатарович', 'username': 'dyjkambaev8510', 'new_password': 'nWxxBa97Da'}
+302 {'id': 481, 'first_name': 'Дыйканбаева Гулнара Толоновна', 'username': 'dyjkanbaeva1739', 'new_password': 'gxAfQTpGTK'}
+303 {'id': 586, 'first_name': 'Дыйканов Примберди', 'username': 'dyjkanov2738', 'new_password': 'cdnxw5AyNw'}
+304 {'id': 238, 'first_name': 'Дюшембиев Рахат Жамсапович', 'username': 'djushembiev3421', 'new_password': 'STMknHdKAu'}
+305 {'id': 501, 'first_name': 'Дюшембиев Сардарбек', 'username': 'djushembiev9519', 'new_password': 'VqAXm4wVC8'}
+306 {'id': 876, 'first_name': 'Дюшеналиева Бурул Арзыкуловна', 'username': 'djushenalieva8790', 'new_password': 'CujgGBGEFY'}
+307 {'id': 967, 'first_name': 'Дүйшеев Кубанычбек Турдумамбетови ч', 'username': 'dүjsheev1736', 'new_password': 'hp9KdD3dhp'}
+308 {'id': 759, 'first_name': 'Егембердиева Жаныл-Мырза Молдалиевна', 'username': 'egemberdieva1261', 'new_password': 'c4V3BMLxNf'}
+309 {'id': 832, 'first_name': 'Ералиев Жаныбек Аскарбекович', 'username': 'eraliev2754', 'new_password': 'MFqfmTkFa2'}
+310 {'id': 926, 'first_name': 'Есеналиев Насыпбек Бакасович', 'username': 'esenaliev8409', 'new_password': 'XRxsHhAwAT'}
+311 {'id': 407, 'first_name': 'Есенгулов Руслан Урустанбекович', 'username': 'esengulov9311', 'new_password': 'z6HkYuZhe6'}
+312 {'id': 785, 'first_name': 'Есенкулова Эльмира Темировна', 'username': 'esenkulova4828', 'new_password': 'YG8uXsFEjq'}
+313 {'id': 68, 'first_name': 'Жайнаков Нургазы', 'username': 'zhajnakov3912', 'new_password': 'e9NQJUakF8'}
+314 {'id': 64, 'first_name': 'Жакбаров Абдыманнап Эргешович', 'username': 'zhakbarov2750', 'new_password': 'Wfd2FZaAP7'}
+315 {'id': 275, 'first_name': 'Жакшылыкова Сагынбүбү', 'username': 'zhakshylykova9595', 'new_password': 'k5M4wxT6gR'}
+316 {'id': 355, 'first_name': 'Жакыбалиев Эмиль Жоробекович', 'username': 'zhakybaliev7000', 'new_password': 'KhEyB7EkY8'}
+317 {'id': 536, 'first_name': 'Жалиев Алмас', 'username': 'zhaliev3913', 'new_password': 'DyK3weLvfx'}
+318 {'id': 268, 'first_name': 'Жамангулов Тилебек Асанович', 'username': 'zhamangulov1255', 'new_password': 'H8jcP3Uqzb'}
+319 {'id': 508, 'first_name': 'Жантаев Дооткул Асанбаевич', 'username': 'zhantaev6028', 'new_password': 'u7Rp7D7TVG'}
+320 {'id': 122, 'first_name': 'Жаныбаев Бекибай Алибаевич', 'username': 'zhanybaev2422', 'new_password': 'DQREZfRfEG'}
+321 {'id': 550, 'first_name': 'Жаныбек уулу Талгат', 'username': 'zhanybek9863', 'new_password': 'wF5FJZsWJ9'}
+322 {'id': 494, 'first_name': 'Жаныбеков Адилет Акушевич', 'username': 'zhanybekov3813', 'new_password': 'b6CQyC8h33'}
+323 {'id': 684, 'first_name': 'Жаныбеков Адылбек', 'username': 'zhanybekov7450', 'new_password': 'wTWjbKybSv'}
+324 {'id': 303, 'first_name': 'Жаркынбаев', 'username': 'zharkynbaev5936', 'new_password': 'vCB3KpMBv6'}
+325 {'id': 664, 'first_name': 'Жарматов Автандил Абдылвакиевич', 'username': 'zharmatov8503', 'new_password': 'sXEkjB8a8B'}
+326 {'id': 308, 'first_name': 'Жекшенов Асан', 'username': 'zhekshenov9033', 'new_password': 'nnAnZR4Quh'}
+327 {'id': 573, 'first_name': 'Жоланов Арзыбек\nТоктомамбетович', 'username': 'zholanov2538', 'new_password': 'HHZhmK4XGF'}
+328 {'id': 137, 'first_name': 'Жолдошов Мирлан Ибрагимжанович', 'username': 'zholdoshov2746', 'new_password': 'mM4rxsZs4U'}
+329 {'id': 117, 'first_name': 'Жолдошов Оморбек Мамираимович', 'username': 'zholdoshov4983', 'new_password': 'yPPT3SgUfY'}
+330 {'id': 19, 'first_name': 'Жолдошов Убайдилла Матураимович', 'username': 'zholdoshov5219', 'new_password': 'YXdSxrTn6e'}
+331 {'id': 83, 'first_name': 'Жолчубеков Тагайбек', 'username': 'zholchubekov5919', 'new_password': 'yJ8Z9GFZhJ'}
+332 {'id': 604, 'first_name': 'Жоошбеков Заирбек Сулайманович', 'username': 'zhooshbekov1070', 'new_password': 'dcVvgaRQLS'}
+333 {'id': 538, 'first_name': 'Жоробеков Алмазбек Калдыбаевич', 'username': 'zhorobekov2508', 'new_password': 'Mwg3wEevCt'}
+334 {'id': 54, 'first_name': 'Жороев Мырхалидин Иматиллаевич', 'username': 'zhoroev2697', 'new_password': 'kq2ec6uVhH'}
+335 {'id': 591, 'first_name': 'Жорубаева Сулуукан Токтобековна', 'username': 'zhorubaeva7190', 'new_password': 'K5xStLFHsL'}
+336 {'id': 980, 'first_name': 'Жумабеков Канат Мамытович', 'username': 'zhumabekov1371', 'new_password': 'jKRJLP8RFf'}
+337 {'id': 764, 'first_name': 'Жумабеков Төлөнбек', 'username': 'zhumabekov5304', 'new_password': 'ApHAV338WB'}
+338 {'id': 282, 'first_name': 'Жумабекова Шекер Чормоковна', 'username': 'zhumabekova2101', 'new_password': 'Ky9tvSUb7j'}
+339 {'id': 738, 'first_name': 'Жумагулов Аскарбек Жумагулович', 'username': 'zhumagulov4134', 'new_password': '5WmK7hazft'}
+340 {'id': 232, 'first_name': 'Жумадилов Ниязбек', 'username': 'zhumadilov9241', 'new_password': 'Pf4hLCuknf'}
+341 {'id': 983, 'first_name': 'Жумакадыров Тариель', 'username': 'zhumakadyrov9294', 'new_password': 'a8uzBhj7RD'}
+342 {'id': 796, 'first_name': 'Жумакалиев Рысбек', 'username': 'zhumakaliev6190', 'new_password': 'SQgEhdyeuZ'}
+343 {'id': 301, 'first_name': 'Жумалиев Алмазбек Азимканович', 'username': 'zhumaliev2193', 'new_password': 'TspuWeRCPX'}
+344 {'id': 399, 'first_name': 'Жумалиев Амангелди Торобекович', 'username': 'zhumaliev9171', 'new_password': 'MLVEYG8h3Y'}
+345 {'id': 231, 'first_name': 'Жумалиев Мелисбек Жанышбекович', 'username': 'zhumaliev4564', 'new_password': '8KpfGMCjpy'}
+346 {'id': 450, 'first_name': 'Жумашов Жыргалбек', 'username': 'zhumashov6288', 'new_password': 'CfzdpYtzXq'}
+347 {'id': 277, 'first_name': 'Жунусов Адилбек Жаныбекович', 'username': 'zhunusov5621', 'new_password': 'sUh7dDsdwp'}
+348 {'id': 613, 'first_name': 'Жусубалиев Асылбек Атабаевич', 'username': 'zhusubaliev3017', 'new_password': 'ZXbgZeALXj'}
+349 {'id': 400, 'first_name': 'Жусупбеков Таласбек Эркинбекович', 'username': 'zhusupbekov2628', 'new_password': 'WxHDWuz5mm'}
+350 {'id': 171, 'first_name': 'Жусупжанов Нурсовет', 'username': 'zhusupzhanov4868', 'new_password': 'K8AkNgMWUw'}
+351 {'id': 578, 'first_name': 'Жусупов Закиркул Абдикаримович', 'username': 'zhusupov8688', 'new_password': 'wwvyg42b2x'}
+352 {'id': 571, 'first_name': 'Жусупов Тойчубек Аматович', 'username': 'zhusupov6341', 'new_password': 'JzsgSpEFer'}
+353 {'id': 533, 'first_name': 'Жусупова Тамара', 'username': 'zhusupova5657', 'new_password': '75vzfYhJfA'}
+354 {'id': 495, 'first_name': 'Жылкыбаев', 'username': 'zhylkybaev5333', 'new_password': '7Cvu5DgNE6'}
+355 {'id': 588, 'first_name': 'Жылтыров Осмон Курмушуевич', 'username': 'zhyltyrov9387', 'new_password': 'LS4tz6V3bF'}
+356 {'id': 535, 'first_name': 'Жээнбаев Осконбай Сатыбаевич', 'username': 'zheenbaev7224', 'new_password': 'RRfefV7jmU'}
+357 {'id': 666, 'first_name': 'Жээнбаев Рустамбек Кошоевич', 'username': 'zheenbaev5390', 'new_password': 'k4PgKGbZ6f'}
+358 {'id': 467, 'first_name': 'Закирияев Кенжебек Абдыевич', 'username': 'zakirijaev3099', 'new_password': 'a6NVdLHzD5'}
+359 {'id': 961, 'first_name': 'Закиров Сулейман Сапарбекович', 'username': 'zakirov9807', 'new_password': 'trebSw3Qt7'}
+360 {'id': 99, 'first_name': 'Зохиржонов Тохиржон', 'username': 'zohirzhonov3537', 'new_password': 'CtR2YBKQCU'}
+361 {'id': 654, 'first_name': 'Зулпуев Абдивап Момунович', 'username': 'zulpuev2362', 'new_password': '3pZdaCA49Z'}
+362 {'id': 655, 'first_name': 'Зулпукарова Саткын', 'username': 'zulpukarova9284', 'new_password': 'xHhj7tJhze'}
+363 {'id': 285, 'first_name': 'Ибарева Керээз Орозобаевна', 'username': 'ibareva8916', 'new_password': 'MCG2BEAXJH'}
+364 {'id': 144, 'first_name': 'Ибрагимов Бекболот', 'username': 'ibragimov1768', 'new_password': 'vHTqc2fg2Q'}
+365 {'id': 942, 'first_name': 'Ибраев Адилет Джолдошович', 'username': 'ibraev7013', 'new_password': 'qbJD4jKdQY'}
+366 {'id': 416, 'first_name': 'Ибраев Доолоткелди Мусакулович', 'username': 'ibraev5829', 'new_password': 'ukeeDdeBmd'}
+367 {'id': 469, 'first_name': 'Ибраев Кайратбек Сапаркулович', 'username': 'ibraev5869', 'new_password': 'fxznyvApc8'}
+368 {'id': 273, 'first_name': 'Ибраимакунов Жеңиш Кабылбекович', 'username': 'ibraimakunov4785', 'new_password': 'UcRdnyMm2Q'}
+369 {'id': 549, 'first_name': 'Идирисов Азимбек', 'username': 'idirisov8033', 'new_password': 'ZXLxSRHQrt'}
+370 {'id': 193, 'first_name': 'Идирисов Кумарбек Бокенович', 'username': 'idirisov3448', 'new_password': 'wFpFJLTULg'}
+371 {'id': 568, 'first_name': 'Идрисов Хабибулла', 'username': 'idrisov4655', 'new_password': 'ETuPGTnLMB'}
+372 {'id': 840, 'first_name': 'Идыров Эрсма Сардиевич', 'username': 'idyrov5261', 'new_password': 'kKMVRkRrRJ'}
+373 {'id': 66, 'first_name': 'Имамов Болот Өскөнбаевич', 'username': 'imamov5373', 'new_password': '4WYEf4ADPb'}
+374 {'id': 252, 'first_name': 'Иманалиев Бактыбек Төлөгөнович', 'username': 'imanaliev3545', 'new_password': 'vVWFxB83ts'}
+375 {'id': 247, 'first_name': 'Иманалиев Иманкадыр Жолдошович', 'username': 'imanaliev5356', 'new_password': 'XMQKdUbpZ2'}
+376 {'id': 885, 'first_name': 'Иманалиев Кусеин Кубанычбекович', 'username': 'imanaliev7461', 'new_password': 'YsJs2Ddtnd'}
+377 {'id': 402, 'first_name': 'Иманалиева Жылдыз Амантуровна', 'username': 'imanalieva6309', 'new_password': 'aLppn7X5XL'}
+378 {'id': 262, 'first_name': 'Иманалиева Чынаркүл Салмакеевна', 'username': 'imanalieva9549', 'new_password': 'LBEyw5WGJv'}
+379 {'id': 496, 'first_name': 'Имангожоев Эрлан Асангазиевич', 'username': 'imangozhoev3688', 'new_password': 'NXVYUTKkhR'}
+380 {'id': 779, 'first_name': 'Иманкулов Анаркул', 'username': 'imankulov5288', 'new_password': 'JVnw8FQ3Hw'}
+381 {'id': 794, 'first_name': 'Иманкулов Жээнбе Макеевич', 'username': 'imankulov1170', 'new_password': '7h8Y5JDUXy'}
+382 {'id': 649, 'first_name': 'Имяминов Зайлабидин', 'username': 'imjaminov9711', 'new_password': 'GTNrRLSUDC'}
+383 {'id': 36, 'first_name': 'Ирискулов Абдуманнап Орозбаевич', 'username': 'iriskulov8812', 'new_password': 'vjwvMuee5K'}
+384 {'id': 891, 'first_name': 'Исаев Акжол\nАпсаматович', 'username': 'isaev2368', 'new_password': 'Kv9E4Kty55'}
+385 {'id': 257, 'first_name': 'Исаев Болот', 'username': 'isaev7879', 'new_password': 'JKVRxVn6UV'}
+386 {'id': 933, 'first_name': 'Исаев Нурбек\nАбдырасулович', 'username': 'isaev6930', 'new_password': '4YZwggyvaN'}
+387 {'id': 886, 'first_name': 'Исаков  Эсенгул Байдалиевич', 'username': 'isakov7311', 'new_password': 'k6N645wE2y'}
+388 {'id': 242, 'first_name': 'Исаков Болотбек', 'username': 'isakov5685', 'new_password': 'QW66Hcw7fU'}
+389 {'id': 243, 'first_name': 'Исаков Ишенбек', 'username': 'isakov3651', 'new_password': 'HRKtNEYFLH'}
+390 {'id': 107, 'first_name': 'Исаков Медетбек Акматбекович', 'username': 'isakov3642', 'new_password': '9auhYevFCD'}
+391 {'id': 214, 'first_name': 'Исаматов Кабакбек Шайдинович', 'username': 'isamatov7297', 'new_password': 'k8Kr3mpQ9r'}
+392 {'id': 875, 'first_name': 'Искаков Асанкул', 'username': 'iskakov8318', 'new_password': 'TVHGm8Pf22'}
+393 {'id': 439, 'first_name': 'Искатов Тукаш', 'username': 'iskatov9444', 'new_password': 'YbuJE53uPP'}
+394 {'id': 786, 'first_name': 'Искендеров Амир Искендерович', 'username': 'iskenderov1903', 'new_password': 'QNc2vqWHYQ'}
+395 {'id': 479, 'first_name': 'Исмаилов Бактыбек Бектурганович Эскертүү :(ден соолугу боюнча мүмкунчулүгу чектелген, жакын адамы коштоп жүрүугө  муктаж)', 'username': 'ismailov3140', 'new_password': 'JVFEAaUjyh'}
+396 {'id': 221, 'first_name': 'Исмаилов Батырбек Талипович', 'username': 'ismailov6125', 'new_password': 'fmDfzmLtUL'}
+397 {'id': 424, 'first_name': 'Исмаилов Болотбек Кожомбекович', 'username': 'ismailov4385', 'new_password': 'dNUFqbATqZ'}
+398 {'id': 544, 'first_name': 'Исмаилов Кадырбек Бакирович', 'username': 'ismailov8616', 'new_password': 'PxPaEuprxc'}
+399 {'id': 935, 'first_name': 'Исмаилов Тилек Темирбекович', 'username': 'ismailov4312', 'new_password': 'mXFrzpymbH'}
+400 {'id': 978, 'first_name': 'Исмаилова Айнур Курманбековна', 'username': 'ismailova8401', 'new_password': 'ppgGNNBLuy'}
+401 {'id': 475, 'first_name': 'Исмаилова Атыргүл Төлөсүновна', 'username': 'ismailova1400', 'new_password': 'MGYyh9KBZy'}
+402 {'id': 836, 'first_name': 'Исмаилова Тынчыгүл Абдылдаевна', 'username': 'ismailova3427', 'new_password': 'CNWjPz2tFM'}
+403 {'id': 225, 'first_name': 'Исмаилова Фатима Жумакадыровна', 'username': 'ismailova5960', 'new_password': 'vdSGuYXkXs'}
+404 {'id': 878, 'first_name': 'Исманкулов Жалынбек Кубанычбекович', 'username': 'ismankulov8058', 'new_password': 'JFBUauJbzF'}
+405 {'id': 148, 'first_name': 'Исманов Камчибек Осмонович', 'username': 'ismanov4729', 'new_password': 'jhjVVUkVwm'}
+406 {'id': 276, 'first_name': 'Исмаылов Турсунбек Ыдырысович', 'username': 'ismaylov9467', 'new_password': 'KKg6nXbwBR'}
+407 {'id': 636, 'first_name': 'Исраилова Сайрагүл Тиленовна', 'username': 'israilova2356', 'new_password': 'ZMfpbNVQCU'}
+408 {'id': 939, 'first_name': 'Ишенов Жыргалбек', 'username': 'ishenov8614', 'new_password': 'n3N3rzwC3R'}
+409 {'id': 241, 'first_name': 'Кабаев Шекербек', 'username': 'kabaev4281', 'new_password': 'faxXu4wj2w'}
+410 {'id': 968, 'first_name': 'Кадиева Роза\nМолдоисаевна', 'username': 'kadieva4201', 'new_password': 'zaH8vLRpCh'}
+411 {'id': 887, 'first_name': 'Кадыркулов Мунарбек', 'username': 'kadyrkulov2909', 'new_password': 'Y5FRdTyf3D'}
+412 {'id': 452, 'first_name': 'Кадыров Макен Бейшеевич', 'username': 'kadyrov3581', 'new_password': 'cbTfgm5DN3'}
+413 {'id': 601, 'first_name': 'Кадыров Мирбек Садырович', 'username': 'kadyrov1669', 'new_password': 'sebww8p4VS'}
+414 {'id': 1001, 'first_name': 'Кадыров Талантбек Жороевич', 'username': 'kadyrov8535', 'new_password': 'gwJD6ezEpm'}
+415 {'id': 1002, 'first_name': 'Кадырова Жамилакан Кайыровна', 'username': 'kadyrova7099', 'new_password': '4kRL4kJXZ3'}
+416 {'id': 674, 'first_name': 'Кадышов Толонбай Кадышович', 'username': 'kadyshov3256', 'new_password': 'jetrDJYAAe'}
+417 {'id': 844, 'first_name': 'Казакбаев Асанкул Беккулович', 'username': 'kazakbaev3331', 'new_password': 'BmvXahKM93'}
+418 {'id': 326, 'first_name': 'Казиев Токтосун Сатыбалдиевич', 'username': 'kaziev7193', 'new_password': '8u6PM3t7Up'}
+419 {'id': 847, 'first_name': 'Казыбаев Айбек Усонович', 'username': 'kazybaev9908', 'new_password': 'D34yk5cRMP'}
+420 {'id': 824, 'first_name': 'Казыбаев Саламат Шоморович', 'username': 'kazybaev3353', 'new_password': '7S9ENDGFxR'}
+421 {'id': 293, 'first_name': 'Казыбаев Темирбек Сатарович', 'username': 'kazybaev4327', 'new_password': 'Cuvj3zn78B'}
+422 {'id': 1008, 'first_name': 'Каимов Умрбек Каныбекович', 'username': 'kaimov7690', 'new_password': 'S7QbD7Vrpw'}
+423 {'id': 596, 'first_name': 'Кайбылдаева Зыйнат', 'username': 'kajbyldaeva8250', 'new_password': 'ppf4xQGJmu'}
+424 {'id': 410, 'first_name': 'Кайкиева Бактыгуль', 'username': 'kajkieva6863', 'new_password': 'bAwPM6cbVU'}
+425 {'id': 25, 'first_name': 'Калбаев Уланбек', 'username': 'kalbaev2897', 'new_password': 'btqFqqGjcH'}
+426 {'id': 184, 'first_name': 'Калдарбаев Омор Акунович', 'username': 'kaldarbaev7610', 'new_password': '8GVeEC8DUK'}
+427 {'id': 688, 'first_name': 'Калдарбеков Жаныбек Насирович', 'username': 'kaldarbekov6016', 'new_password': 'tnT7XrC67q'}
+428 {'id': 440, 'first_name': 'Калилаева Ракат Амановна', 'username': 'kalilaeva7389', 'new_password': '3KhDCZzXPs'}
+429 {'id': 606, 'first_name': 'Калмуратов Мамбет Маматалиевич', 'username': 'kalmuratov3462', 'new_password': 'YJVkfTa7LY'}
+430 {'id': 806, 'first_name': 'Калмурзаев Руслан Сатыбалдиевич', 'username': 'kalmurzaev8149', 'new_password': 'Z65cPbwbUY'}
+431 {'id': 425, 'first_name': 'Калчаев Кабылды Жекшенович', 'username': 'kalchaev7720', 'new_password': '7MPvADwsAa'}
+432 {'id': 709, 'first_name': 'Калыков Исраж Манапович', 'username': 'kalykov7414', 'new_password': 'RCUhq5vRhD'}
+433 {'id': 618, 'first_name': 'Калыков Медет Пирмаматович', 'username': 'kalykov9383', 'new_password': 'yd2yUqaYxf'}
+434 {'id': 485, 'first_name': 'Калысбек уулу Исламбек', 'username': 'kalysbek3750', 'new_password': 'BGYfP6Ccby'}
+435 {'id': 752, 'first_name': 'Калюжная\nГалина Сергеевна', 'username': 'kaljuzhnaja\ngalina5709', 'new_password': 'tEpTZYV48N'}
+436 {'id': 896, 'first_name': 'Камсаев Акылбек Камсаевич', 'username': 'kamsaev2797', 'new_password': 'uSrWR6FAQH'}
+437 {'id': 882, 'first_name': 'Канай уулу Талгат', 'username': 'kanaj4041', 'new_password': 'R3wCkz3h4A'}
+438 {'id': 217, 'first_name': 'Каниетов Каныбек Өмүрович', 'username': 'kanietov8423', 'new_password': 'GQkdeYyZdu'}
+439 {'id': 646, 'first_name': 'Канназаров Эркинбек Шермаматович', 'username': 'kannazarov4325', 'new_password': '2kdVDWMuKd'}
+440 {'id': 614, 'first_name': 'Каныбек уулу Исламбек', 'username': 'kanybek8530', 'new_password': 'P4RSWKrSCu'}
+441 {'id': 468, 'first_name': 'Капарбек уулу Чолпонбек', 'username': 'kaparbek9359', 'new_password': 'BQfsgEW7Ve'}
+442 {'id': 941, 'first_name': 'Капарова Чынара Абдылдаевна', 'username': 'kaparova3542', 'new_password': 'p7vXrPdqc6'}
+443 {'id': 158, 'first_name': 'Карабеков Шарабидин Касымбекович', 'username': 'karabekov6477', 'new_password': 'b8T9L7spq4'}
+444 {'id': 22, 'first_name': 'Каработоев Жалил', 'username': 'karabotoev3719', 'new_password': 'MbSGhkc3M8'}
+445 {'id': 16, 'first_name': 'Караев Аликул Бакирович', 'username': 'karaev3279', 'new_password': 'CEHSsNMmPU'}
+446 {'id': 641, 'first_name': 'Каразакова Ташбү', 'username': 'karazakova8579', 'new_password': 'vHs6g6JuNC'}
+447 {'id': 892, 'first_name': 'Карамырзаев Арашан Табылдиевич', 'username': 'karamyrzaev4039', 'new_password': 'ftDaE3jurW'}
+448 {'id': 413, 'first_name': 'Каратаев Азат Урумбекович', 'username': 'karataev7829', 'new_password': 'vQL6NRVfbG'}
+449 {'id': 702, 'first_name': 'Каратаев Базарали Тагаевич', 'username': 'karataev5304', 'new_password': 'yXCJcQRrZc'}
+450 {'id': 72, 'first_name': 'Карбосов Жуманазар Камчыбекович', 'username': 'karbosov6671', 'new_password': 'nRQjmkuC7Z'}
+451 {'id': 605, 'first_name': 'Каримжанов Рахманберди Тургунбаевич', 'username': 'karimzhanov7351', 'new_password': '2mLKEmEBRm'}
+452 {'id': 104, 'first_name': 'Каримов Ашыралы Жоробаевич', 'username': 'karimov5606', 'new_password': 'uXsK4Nz7f4'}
+453 {'id': 1003, 'first_name': 'Каримов Болотбек Акимович', 'username': 'karimov2101', 'new_password': 'pFTy7GV45N'}
+454 {'id': 10, 'first_name': 'Каримов Жоошбай', 'username': 'karimov2714', 'new_password': '2ArWy8b88L'}
+455 {'id': 576, 'first_name': 'Кармышаков Бааридин Мааташимович', 'username': 'karmyshakov3234', 'new_password': 'xwYuSZAwBY'}
+456 {'id': 870, 'first_name': 'Карымшаков Асан Турусбекович', 'username': 'karymshakov4966', 'new_password': 'W6yPDpYk98'}
+457 {'id': 453, 'first_name': 'Карымшаков Дүйшенбек Абдылдаевич', 'username': 'karymshakov2249', 'new_password': '7gspXErtvJ'}
+458 {'id': 309, 'first_name': 'Карыпбаев Эркинбек', 'username': 'karypbaev8851', 'new_password': 'QfL4KhATWt'}
+459 {'id': 432, 'first_name': 'Касенов Бахтияр Максатович', 'username': 'kasenov3017', 'new_password': 'SHVcsuYG7e'}
+460 {'id': 712, 'first_name': 'Касимов Билал Дилмуратович', 'username': 'kasimov9381', 'new_password': 'BXMd33aCx4'}
+461 {'id': 669, 'first_name': 'Касымалиева Анаркан Жумамидиновна', 'username': 'kasymalieva6444', 'new_password': 'C5wR58cjph'}
+462 {'id': 197, 'first_name': 'Касымбеков Алтынбек Суранчиевич', 'username': 'kasymbekov8201', 'new_password': 'UtgMAHrdCY'}
+463 {'id': 30, 'first_name': 'Касымов Исак', 'username': 'kasymov8277', 'new_password': 'zPy4Lskt8w'}
+464 {'id': 274, 'first_name': 'Касымова Жылдыз Мусажановна', 'username': 'kasymova9412', 'new_password': 'nNa39dG9q7'}
+465 {'id': 81, 'first_name': 'Качыбеков Улукбек Мамытбекович', 'username': 'kachybekov1619', 'new_password': 'PHB2tE2PUQ'}
+466 {'id': 20, 'first_name': 'Каюмов Разакберди Нажимидинович', 'username': 'kajumov5374', 'new_password': 'WXudkkdqXP'}
+467 {'id': 195, 'first_name': 'Келгенбаев Уланбек Жыргалбекович', 'username': 'kelgenbaev8914', 'new_password': 'Sjw2XBS9Hz'}
+468 {'id': 281, 'first_name': 'Кененбаева Роза Бейшекеевна', 'username': 'kenenbaeva6358', 'new_password': 'bjY87dVPuL'}
+469 {'id': 803, 'first_name': 'Кененсариев Бекболот Иманбекович', 'username': 'kenensariev9437', 'new_password': 'GBk2tRmfXB'}
+470 {'id': 401, 'first_name': 'Кенжегулов Токтогул Султанкулович', 'username': 'kenzhegulov1872', 'new_password': 'ztFaBYS77b'}
+471 {'id': 888, 'first_name': 'Керимакунова Чолпон', 'username': 'kerimakunova3249', 'new_password': 'CMwXjshWbN'}
+472 {'id': 787, 'first_name': 'Керимбаев Эрнист Акжолтоевич', 'username': 'kerimbaev6714', 'new_password': 'CJ9N2A2Gg6'}
+473 {'id': 797, 'first_name': 'Керимжанова Атыр', 'username': 'kerimzhanova3414', 'new_password': 'mjfL4ZTwRn'}
+474 {'id': 839, 'first_name': 'Кетрекеев Керезбек Джумаканович', 'username': 'ketrekeev9236', 'new_password': 'qdxQ8cE93a'}
+475 {'id': 728, 'first_name': 'Киямидинов Аслидин Джамолидинович', 'username': 'kijamidinov6689', 'new_password': 'mkX97adQfb'}
+476 {'id': 157, 'first_name': 'Кожоакматов Эрмамат', 'username': 'kozhoakmatov5484', 'new_password': 'YTCT9DJn3W'}
+477 {'id': 949, 'first_name': 'Кожогулова Алмагуль Бутабаевна', 'username': 'kozhogulova4445', 'new_password': 'tarxX2Gzzf'}
+478 {'id': 143, 'first_name': 'Кожоева Бегаим Зулумбековна', 'username': 'kozhoeva7912', 'new_password': 'y9FHCsgXGf'}
+479 {'id': 100, 'first_name': 'Кожонова Алтынай Эргешовна', 'username': 'kozhonova2981', 'new_password': 'uptDgdazrq'}
+480 {'id': 561, 'first_name': 'Козиев Мамир Ашимович', 'username': 'koziev9621', 'new_password': '5qZKgTr22J'}
+481 {'id': 855, 'first_name': 'Козубеков Керимбек Абдыкулович', 'username': 'kozubekov9907', 'new_password': 'CwegNJVr5y'}
+482 {'id': 1004, 'first_name': 'Козубеков Талантбек Маданбекович', 'username': 'kozubekov8438', 'new_password': 'Wz3xdje8hU'}
+483 {'id': 627, 'first_name': 'Козуев Семетей Абибиллаевич', 'username': 'kozuev7324', 'new_password': 'zsKe3Z2Kbc'}
+484 {'id': 90, 'first_name': 'Койчумбаев Бактыбек Маралович', 'username': 'kojchumbaev9613', 'new_password': 'zvzZxKN32g'}
+485 {'id': 830, 'first_name': 'Кокшенов Джаныбек Темирбекович', 'username': 'kokshenov8108', 'new_password': 'Q8ugS4zKGk'}
+486 {'id': 713, 'first_name': 'Колпочбаев Болотбек Эсенкожоевич', 'username': 'kolpochbaev8016', 'new_password': 'MEhjDZZ4sU'}
+487 {'id': 948, 'first_name': 'Кондратко Александр Семёнович', 'username': 'kondratko9742', 'new_password': 'D69QmSm8Ph'}
+488 {'id': 732, 'first_name': 'Конурбаев Бактыгул Чукушович', 'username': 'konurbaev4228', 'new_password': 'TWfCtBw9CL'}
+489 {'id': 807, 'first_name': 'Конушев Ниязбек Конушевич', 'username': 'konushev8255', 'new_password': '8nWRvXmStw'}
+490 {'id': 909, 'first_name': 'Копбаев Азиз\nИембергенович', 'username': 'kopbaev4527', 'new_password': 'SeLjeL4QWy'}
+491 {'id': 435, 'first_name': 'Кочокова Айнура Кенжебаевна', 'username': 'kochokova3933', 'new_password': 'zTRed4gpwZ'}
+492 {'id': 376, 'first_name': 'Кочорбаев Разак', 'username': 'kochorbaev6243', 'new_password': 'GFFSR5rQyc'}
+493 {'id': 389, 'first_name': 'Кочөрбаев Замирбек', 'username': 'kochөrbaev6448', 'new_password': 'uVYm6GXsks'}
+494 {'id': 958, 'first_name': 'Кошалиев Кадырали Амиракулович', 'username': 'koshaliev2392', 'new_password': 'Rc5TgQu3xP'}
+495 {'id': 744, 'first_name': 'Кошалиев Калмурат Садырович', 'username': 'koshaliev4414', 'new_password': 'R7QFrjnqee'}
+496 {'id': 918, 'first_name': 'Кошоев Зарылбек Имашевич', 'username': 'koshoev1917', 'new_password': 'nydkanDD5C'}
+497 {'id': 842, 'first_name': 'Кубанычбеков Калыс Кубанычбекович', 'username': 'kubanychbekov3431', 'new_password': '7wqVtfcpuF'}
+498 {'id': 162, 'first_name': 'Кубатов Илязбек Темиркулович', 'username': 'kubatov8377', 'new_password': 'xnMkwx6X4k'}
+499 {'id': 923, 'first_name': 'Кувандыков Саламат Асанович', 'username': 'kuvandykov9850', 'new_password': 'Hex5NbNx22'}
+500 {'id': 528, 'first_name': 'Кудайбердиев Азамат Долосбаевич', 'username': 'kudajberdiev5826', 'new_password': 'NxKGA4pW2x'}
+501 {'id': 53, 'first_name': 'Кудайбердиев Ражавали Исмаилович', 'username': 'kudajberdiev8081', 'new_password': 'JBcgJa2NBg'}
+502 {'id': 254, 'first_name': 'Кулболду кызы Эльвира', 'username': 'kulboldu6300', 'new_password': '5ab2TGKveR'}
+503 {'id': 670, 'first_name': 'Кулботоев Асан Амиржанович', 'username': 'kulbotoev9664', 'new_password': 'XS6bn552ru'}
+504 {'id': 545, 'first_name': 'Кулова Бубайша Абдрамановна', 'username': 'kulova1545', 'new_password': 'GaFzhBtqu8'}
+505 {'id': 828, 'first_name': 'Курамаев Фархат Саденович', 'username': 'kuramaev1387', 'new_password': 'CE3CjaL3sg'}
+506 {'id': 60, 'first_name': 'Курбаналиев Шайлообек Гламидинович', 'username': 'kurbanaliev3676', 'new_password': 'csQNWgSKe7'}
+507 {'id': 648, 'first_name': 'Курбанбаев Бокижан Турсуналиевич', 'username': 'kurbanbaev7204', 'new_password': '6ZCyFZMnBr'}
+508 {'id': 405, 'first_name': 'Курманалиев Кубанычбек Карыпович', 'username': 'kurmanaliev2568', 'new_password': 'pUSULaJBTq'}
+509 {'id': 373, 'first_name': 'Курманалиев Мурат Досболович', 'username': 'kurmanaliev5189', 'new_password': 'V26KqgrBhU'}
+510 {'id': 889, 'first_name': 'Курманалиев Сартбай Мамытбекович', 'username': 'kurmanaliev3632', 'new_password': '3Wk4Eu56ad'}
+511 {'id': 93, 'first_name': 'Курманбеков Темирбек Насирдинович', 'username': 'kurmanbekov8051', 'new_password': 'HbZzbXWKRS'}
+512 {'id': 458, 'first_name': 'Курманов Айтбек Койчуманович', 'username': 'kurmanov5341', 'new_password': 'eUy2APbjpV'}
+513 {'id': 977, 'first_name': 'Кусегенов Садатбек Тулкуевич', 'username': 'kusegenov4287', 'new_password': 'yxCpEzXL82'}
+514 {'id': 741, 'first_name': 'Куттубаев Жумашалы Акылбекович', 'username': 'kuttubaev6105', 'new_password': 'kHcLgrCRqm'}
+515 {'id': 768, 'first_name': 'Кушназаров Жумабек Семетеевич', 'username': 'kushnazarov6888', 'new_password': 'wDTSEeDRfm'}
+516 {'id': 343, 'first_name': 'Кушубаков Тилек Бешколбекович', 'username': 'kushubakov2657', 'new_password': 'gsRBSugjWr'}
+517 {'id': 503, 'first_name': 'Кыдыралиев Муратбек Акунович', 'username': 'kydyraliev9075', 'new_password': 'aLaTTrKvmR'}
+518 {'id': 332, 'first_name': 'Кыдыралиев Санташбек Асаналыевич', 'username': 'kydyraliev9531', 'new_password': 'ZWRXfmYhuC'}
+519 {'id': 218, 'first_name': 'Кыдырбаев Мирлан Жекшенбекович', 'username': 'kydyrbaev2360', 'new_password': 'KqKg26pZBM'}
+520 {'id': 441, 'first_name': 'Кыдырбеков Батыркан Чапрашович', 'username': 'kydyrbekov4014', 'new_password': 'p4kf97saS4'}
+521 {'id': 531, 'first_name': 'Кыдырмышова Зарылкан Амантуровна', 'username': 'kydyrmyshova1787', 'new_password': '9GDF5fb5Nk'}
+522 {'id': 456, 'first_name': 'Кылчыкбаев Кеңешбек Усенович', 'username': 'kylchykbaev8491', 'new_password': 'z2kEUnQ2dE'}
+523 {'id': 118, 'first_name': 'Кылычбеков Аватбек Кылычбекович', 'username': 'kylychbekov5152', 'new_password': '2P3YeZvYQ6'}
+524 {'id': 970, 'first_name': 'Кыштообаев Кайрат Дарканбаевич', 'username': 'kyshtoobaev5939', 'new_password': 'xTMGJFBegP'}
+525 {'id': 793, 'first_name': 'Мааткеримов Азизбек Нургазыевич', 'username': 'maatkerimov4370', 'new_password': 'GTZEFaYhnp'}
+526 {'id': 463, 'first_name': 'Мааткеримов Улан Абдылдабекович', 'username': 'maatkerimov8963', 'new_password': 'WFpTSvjMNk'}
+527 {'id': 6, 'first_name': 'Мадаминов Гапыр Маматкулович', 'username': 'madaminov6127', 'new_password': 'JeBqYa8BsF'}
+528 {'id': 491, 'first_name': 'Маджиков Жыргалбек Бакирович', 'username': 'madzhikov8023', 'new_password': 'a2nF2HnMDC'}
+529 {'id': 371, 'first_name': 'Мажитов Нурлан Аманович', 'username': 'mazhitov3283', 'new_password': 'bVGrRYVM8m'}
+530 {'id': 386, 'first_name': 'Мазиев Туратбек Абдыкадырович', 'username': 'maziev4348', 'new_password': 'pwtvaZ94ep'}
+531 {'id': 492, 'first_name': 'Мазымканов Атабек Дюшенович', 'username': 'mazymkanov8837', 'new_password': '9fSKTf6EBW'}
+532 {'id': 699, 'first_name': 'Майсалбек уулу Исхак', 'username': 'majsalbek4588', 'new_password': 'gH5Gk5AYuw'}
+533 {'id': 742, 'first_name': 'Майташова Зинагуль Асанкулова', 'username': 'majtashova3445', 'new_password': 'wWBz9jcCeV'}
+534 {'id': 704, 'first_name': 'Макаев Маматазиз Макаевич', 'username': 'makaev1107', 'new_password': 'X7YY69Hnqm'}
+535 {'id': 719, 'first_name': 'Макеев Мурат Абдыбекович', 'username': 'makeev2145', 'new_password': '4n9UUrNcX9'}
+536 {'id': 868, 'first_name': 'Макеев Мурат Калыбекович', 'username': 'makeev1827', 'new_password': 'cmUx739HKT'}
+537 {'id': 284, 'first_name': 'Макеналиев Туратбек Дүйшеналиевич', 'username': 'makenaliev8359', 'new_password': 'T9gDdhar7F'}
+538 {'id': 945, 'first_name': 'Максутов Бактыбек', 'username': 'maksutov2402', 'new_password': 'vFbQKGWnfH'}
+539 {'id': 692, 'first_name': 'Максутов Калил Полотбекович', 'username': 'maksutov4750', 'new_password': 'XqXVHydskj'}
+540 {'id': 58, 'first_name': 'Максутов Карим', 'username': 'maksutov2868', 'new_password': 'xSTCGY4xds'}
+541 {'id': 46, 'first_name': 'Максутов Мурсалим Султаналиевич', 'username': 'maksutov3919', 'new_password': 'GkH8pLEmeT'}
+542 {'id': 762, 'first_name': 'Малабаев Азамат Маратович', 'username': 'malabaev7995', 'new_password': 'QKAUwZWZpe'}
+543 {'id': 802, 'first_name': 'Малабаев Памир Ишенович', 'username': 'malabaev6705', 'new_password': 'td8AVKQwvQ'}
+544 {'id': 640, 'first_name': 'Маликов Арапбай', 'username': 'malikov9429', 'new_password': 'bSz7rtBUNh'}
+545 {'id': 642, 'first_name': 'Маликова Максуда Мадаминовна', 'username': 'malikova9874', 'new_password': 'Dxh37BfCkJ'}
+546 {'id': 1005, 'first_name': 'Мамаев Абдилазиз Абдырахманович', 'username': 'mamaev3009', 'new_password': 'nEJmfQGrNb'}
+547 {'id': 63, 'first_name': 'Мамажунусов Зиябидин', 'username': 'mamazhunusov4002', 'new_password': 'FGuhw8AvGe'}
+548 {'id': 637, 'first_name': 'Мамажунусова Айгүл Арановна', 'username': 'mamazhunusova5384', 'new_password': 'qqwQM3zsSs'}
+549 {'id': 708, 'first_name': 'Мамазияев Абдималик Боркошевич', 'username': 'mamazijaev7934', 'new_password': '6E9QZqZc4x'}
+550 {'id': 323, 'first_name': 'Мамакеева Берметкан Бектуровна', 'username': 'mamakeeva5982', 'new_password': 'HFqQ4X9dtL'}
+551 {'id': 928, 'first_name': 'Маманов  Данияр Шамаматович', 'username': 'mamanov1066', 'new_password': 'cETD5VagRg'}
+552 {'id': 660, 'first_name': 'Мамасадыков Ымамидин', 'username': 'mamasadykov1988', 'new_password': 'Lj5KFYr6Zz'}
+553 {'id': 92, 'first_name': 'Мамасыдыков Искендер', 'username': 'mamasydykov9699', 'new_password': '458JvyCMe5'}
+554 {'id': 564, 'first_name': 'Маматбаев Жыргалбек Калыкович', 'username': 'mamatbaev9596', 'new_password': 'UNqGrBsSdS'}
+555 {'id': 520, 'first_name': 'Маматов Рыскелди Каниметович', 'username': 'mamatov3275', 'new_password': 'gEJcsxCb2b'}
+556 {'id': 626, 'first_name': 'Маматов Эркин Мамашович', 'username': 'mamatov7967', 'new_password': 'g64VvuC58D'}
+557 {'id': 131, 'first_name': 'Маматова Эркин Сыдыковна', 'username': 'mamatova4477', 'new_password': 'Fkg2DtMxVc'}
+558 {'id': 872, 'first_name': 'Мамбеталиев Мырсабек Джумакадырович', 'username': 'mambetaliev1905', 'new_password': '3RSNCxzLYM'}
+559 {'id': 121, 'first_name': 'Мамбеталиев Саринжи Адылович', 'username': 'mambetaliev4610', 'new_password': 'wpfBMqjEXD'}
+560 {'id': 900, 'first_name': 'Мамбеталиев Темирлан Саткынбекович', 'username': 'mambetaliev4399', 'new_password': 'ktdyZJBNgD'}
+561 {'id': 525, 'first_name': 'Мамбеталиева Айнура Аалиевна', 'username': 'mambetalieva5532', 'new_password': 'uCdSq58VQp'}
+562 {'id': 341, 'first_name': 'Мамбетказиева Бурулбүбү Кайымбековна', 'username': 'mambetkazieva3845', 'new_password': 'XDRLJ3tkhL'}
+563 {'id': 522, 'first_name': 'Мамбетов Жумабек Дюшенович', 'username': 'mambetov7668', 'new_password': '4PcGyaSnvZ'}
+564 {'id': 527, 'first_name': 'Мамбетов Мукаш Самалыкович', 'username': 'mambetov9948', 'new_password': 'FVPyabsQ4y'}
+565 {'id': 409, 'first_name': 'Мамбетов Омурбек Калыкович', 'username': 'mambetov7189', 'new_password': 'NxfyxU8L89'}
+566 {'id': 224, 'first_name': 'Мамбетов Орозобек Ишеналиевич', 'username': 'mambetov4124', 'new_password': 'cpgLaFLmbM'}
+567 {'id': 466, 'first_name': 'Мамбеттурдиев Артур Аскербекович', 'username': 'mambetturdiev4078', 'new_password': 'cYpCbhpnAJ'}
+568 {'id': 430, 'first_name': 'Мамедиев Улан Кубанычбекович', 'username': 'mamediev6847', 'new_password': 'B5F6xfN9Rv'}
+569 {'id': 78, 'first_name': 'Мамырбеков Мейманалы', 'username': 'mamyrbekov1284', 'new_password': 'bAmEYVS7eQ'}
+570 {'id': 84, 'first_name': 'Мамытбеков Уйлуубай Казакович', 'username': 'mamytbekov7169', 'new_password': 'whdLYECGCQ'}
+571 {'id': 329, 'first_name': 'Мамытбекова Гүлбарчын Батырбековна', 'username': 'mamytbekova6215', 'new_password': 'RudgTQgwHD'}
+572 {'id': 334, 'first_name': 'Мамытов Замирбек Көчөрбаевич', 'username': 'mamytov2479', 'new_password': 'yhNuE7vEEe'}
+573 {'id': 767, 'first_name': 'Мамытов Курманбек', 'username': 'mamytov2244', 'new_password': 'n5FV5JkNzX'}
+574 {'id': 426, 'first_name': 'Манаев Саламат Эмилканович', 'username': 'manaev8445', 'new_password': 'ZqqP5EfsXB'}
+575 {'id': 34, 'first_name': 'Мансуров Абдулаким', 'username': 'mansurov1250', 'new_password': 'zQKXMsY2DH'}
+576 {'id': 755, 'first_name': 'Мансуров Турсунбек Мансурович', 'username': 'mansurov5575', 'new_password': 'LqkfpP3vDw'}
+577 {'id': 585, 'first_name': 'Мансурова Эркайым Жанышовна', 'username': 'mansurova3070', 'new_password': 'zUjg2HwjdF'}
+578 {'id': 97, 'first_name': 'Марайимов Латибжон Юнусхожаевич', 'username': 'marajimov5864', 'new_password': 'Y3JLffNCUN'}
+579 {'id': 645, 'first_name': 'Марипов Махамадюсуф Нуруллаевич', 'username': 'maripov2586', 'new_password': 'dZkkYYqtgB'}
+580 {'id': 391, 'first_name': 'Матаев Сталбек Макратбекович', 'username': 'mataev5799', 'new_password': '2cHHZ5ze7R'}
+581 {'id': 607, 'first_name': 'Матазимов Турдубек', 'username': 'matazimov2215', 'new_password': 'qrNnhHvAaa'}
+582 {'id': 147, 'first_name': 'Матирайимов Мадамин Абдирасилович', 'username': 'matirajimov3833', 'new_password': '5uymmtbXfT'}
+583 {'id': 1006, 'first_name': 'Матмусаева Рано Хаджиматовна', 'username': 'matmusaeva3059', 'new_password': 'fCn77HWGks'}
+584 {'id': 972, 'first_name': 'Машаев Жанарбек Орозмаматович', 'username': 'mashaev5366', 'new_password': 'QkCa6eUmyK'}
+585 {'id': 982, 'first_name': 'Мергеналиев Урмат Асылбекович', 'username': 'mergenaliev3332', 'new_password': 'XVszWvsfZT'}
+586 {'id': 115, 'first_name': 'Мирзавалиев Сабиржан', 'username': 'mirzavaliev7967', 'new_password': 'khJRYajRwT'}
+587 {'id': 647, 'first_name': 'Мирзаев Бакижон Юсупжанович', 'username': 'mirzaev2288', 'new_password': 'PAW38UP4kk'}
+588 {'id': 651, 'first_name': 'Миңбаев Абдырахман Исмаилович', 'username': 'miңbaev9231', 'new_password': 'uVvsfRDBP9'}
+589 {'id': 973, 'first_name': 'Мокенов Абдразак Мокенович', 'username': 'mokenov7550', 'new_password': 'BAJebmSJtZ'}
+590 {'id': 954, 'first_name': 'Молдалиева Жыпаркүл Юсуповна', 'username': 'moldalieva5384', 'new_password': 'Mw4gPXS8NR'}
+591 {'id': 136, 'first_name': 'Молдобаев Алимбек Тологонович', 'username': 'moldobaev6097', 'new_password': '2zZ9kgak7J'}
+592 {'id': 85, 'first_name': 'Молдобекова Казымкан', 'username': 'moldobekova8697', 'new_password': 'UZaCR5FvHx'}
+593 {'id': 950, 'first_name': 'Молдоев Эрнисбек Эсенович', 'username': 'moldoev4336', 'new_password': 'Yc7BpVJmxp'}
+594 {'id': 482, 'first_name': 'Молдокматова Анаркүл Кыдыргановна', 'username': 'moldokmatova9946', 'new_password': 'n2jYCL2b7F'}
+595 {'id': 775, 'first_name': 'Молдокулов Бошкой Насырбекович', 'username': 'moldokulov8780', 'new_password': '5EXWZ4LJpE'}
+596 {'id': 229, 'first_name': 'Молдокулов Санжыбек Искакович', 'username': 'moldokulov6137', 'new_password': 'ZVZYF3fvYN'}
+597 {'id': 352, 'first_name': 'Молдокулов Тыныбек Кенешбекович', 'username': 'moldokulov3393', 'new_password': 'QLszWdkQtz'}
+598 {'id': 382, 'first_name': 'Молдоналиев Тургуналы Жумалиевич', 'username': 'moldonaliev3588', 'new_password': 'hxRyYH6yh4'}
+599 {'id': 678, 'first_name': 'Молдошбаев Сайдилла Анарбаевич', 'username': 'moldoshbaev3839', 'new_password': 'WGWj8ac3mp'}
+600 {'id': 749, 'first_name': 'Молдошев Саматбек', 'username': 'moldoshev1948', 'new_password': '4VrvH7Uu84'}
+601 {'id': 822, 'first_name': 'Молдошов Урматбек Турсунакунович', 'username': 'moldoshov2613', 'new_password': '5FF56HHfqe'}
+602 {'id': 563, 'first_name': 'Моминов Махаммадмарип Розиевич', 'username': 'mominov4665', 'new_password': 'NEH8cRdGfc'}
+603 {'id': 151, 'first_name': 'Момошев Кенешбек Макамбаевич', 'username': 'momoshev7720', 'new_password': 'gYZAZK4s2B'}
+604 {'id': 80, 'first_name': 'Момукулов Нургазы Эмилбекович', 'username': 'momukulov5555', 'new_password': 'RfFxbZyndH'}
+605 {'id': 167, 'first_name': 'Момуналиев Сардарбек Төлөгөнович', 'username': 'momunaliev5516', 'new_password': 'TUjrFJfw8n'}
+606 {'id': 695, 'first_name': 'Момунов Аман', 'username': 'momunov6425', 'new_password': 'TpMtq7fqnb'}
+607 {'id': 345, 'first_name': 'Момунтаев Айдар Туткучбаевич', 'username': 'momuntaev3152', 'new_password': '3arXJMUwqf'}
+608 {'id': 351, 'first_name': 'Мондуров Аккан Асанбекович', 'username': 'mondurov7263', 'new_password': '8TdPNmqspE'}
+609 {'id': 869, 'first_name': 'Мукан уулу Бактыбек', 'username': 'mukan4703', 'new_password': '8qQWDbNwR3'}
+610 {'id': 783, 'first_name': 'Муравьева Надежда Дмитриевна', 'username': "murav'eva4999", 'new_password': 'azZnhzPgTw'}
+611 {'id': 339, 'first_name': 'Мураталиева Айтбүбү Сапарбековна', 'username': 'muratalieva2825', 'new_password': 'VQKsZqxqvs'}
+612 {'id': 663, 'first_name': 'Мурзабаев Сайдахмат Ишмаматович', 'username': 'murzabaev1808', 'new_password': 'uRHaDcxEj9'}
+613 {'id': 659, 'first_name': 'Мурзаев Муратали Асанбаевич', 'username': 'murzaev1941', 'new_password': 'zmCtFAULJU'}
+614 {'id': 40, 'first_name': 'Мурзаева Касиет Орунбаевна', 'username': 'murzaeva7825', 'new_password': 'xNGKBN2jMw'}
+615 {'id': 570, 'first_name': 'Мурзажанов Исабек Базарович', 'username': 'murzazhanov2189', 'new_password': 'ULqpndBw8j'}
+616 {'id': 543, 'first_name': 'Мурзакеримов Мыктыбек Мурзакеримович', 'username': 'murzakerimov1225', 'new_password': 'Xj8EFWKzWB'}
+617 {'id': 589, 'first_name': 'Мурзалиев Женишбек Орокбаевич', 'username': 'murzaliev1786', 'new_password': 'emQSj4Xkxn'}
+618 {'id': 835, 'first_name': 'Мурсалиев Марс Султанович', 'username': 'mursaliev5707', 'new_password': 'zP33k5fmAm'}
+619 {'id': 671, 'first_name': 'Мурсеитов Эмилбек Турдумаматович', 'username': 'murseitov9173', 'new_password': 'kHnHtg2P6k'}
+620 {'id': 228, 'first_name': 'Мусагул уулу Амантур', 'username': 'musagul8567', 'new_password': 'U67hjZkdRQ'}
+621 {'id': 7, 'first_name': 'Мусаев Абдувасыт', 'username': 'musaev3779', 'new_password': 'Tv2nZGkdwB'}
+622 {'id': 821, 'first_name': 'Мусаев Айип Таирбекович', 'username': 'musaev1211', 'new_password': 'vGh3JVFr8P'}
+623 {'id': 683, 'first_name': 'Мусаев Бекболот Абдрасулович', 'username': 'musaev3046', 'new_password': 'XSdnEG73Pf'}
+624 {'id': 780, 'first_name': 'Мусаев Жусуп Мамбетович', 'username': 'musaev3931', 'new_password': 'Pfb9szZ4mf'}
+625 {'id': 934, 'first_name': 'Мусаева Анипа', 'username': 'musaeva2541', 'new_password': 'mUpPngv3Pb'}
+626 {'id': 250, 'first_name': 'Мусаканов Өмүрбек Асанакунович', 'username': 'musakanov5537', 'new_password': 'KGqXsVqBH4'}
+627 {'id': 240, 'first_name': 'Мусалиев Билиал', 'username': 'musaliev4521', 'new_password': 'gQbXXW5jPB'}
+628 {'id': 38, 'first_name': 'Мусалиев Исамидин', 'username': 'musaliev5550', 'new_password': 'hCkaFBwqD8'}
+629 {'id': 116, 'first_name': 'Мусалиева Канышай Тайляковна', 'username': 'musalieva5324', 'new_password': 'xQHntj8h4p'}
+630 {'id': 858, 'first_name': 'Мусаходжаев Жеңиш', 'username': 'musahodzhaev5899', 'new_password': 'uEBhjYAS5L'}
+631 {'id': 816, 'first_name': 'Мусуралиев Азамат Алмазбекович', 'username': 'musuraliev4746', 'new_password': 'xJSxBurLYg'}
+632 {'id': 623, 'first_name': 'Мусурманкулов Эркинали Эгембердиевич', 'username': 'musurmankulov8155', 'new_password': '8MQDWkGpq4'}
+633 {'id': 71, 'first_name': 'Мырзабеков Абдымалик Ыманалиевич', 'username': 'myrzabekov2429', 'new_password': 'uW2ZuwUU5M'}
+634 {'id': 313, 'first_name': 'Мырзакулов Тынчтыкбек Турумбекович', 'username': 'myrzakulov3495', 'new_password': 'pw7XStYbhJ'}
+635 {'id': 368, 'first_name': 'Мырзанаев Кененбай Дуйшобаевич', 'username': 'myrzanaev2881', 'new_password': 'QN4X2D4XzT'}
+636 {'id': 269, 'first_name': 'Нааматбеков Мирлан Калдыбаевич', 'username': 'naamatbekov8850', 'new_password': 'm4hkcHkTgV'}
+637 {'id': 39, 'first_name': 'Нажимиддинов Ахматали Нийматиллаевич', 'username': 'nazhimiddinov4704', 'new_password': 'GTA3qmcgyD'}
+638 {'id': 164, 'first_name': 'Назанов Кыралы Камбарбекович', 'username': 'nazanov9416', 'new_password': 'CfJPkMMKcA'}
+639 {'id': 710, 'first_name': 'Назарали уулу Чолпонбай', 'username': 'nazarali6419', 'new_password': 'Sjd2FyZJFT'}
+640 {'id': 57, 'first_name': 'Назарбаев Абдунаби Салыевич', 'username': 'nazarbaev2457', 'new_password': 'CdP5K4r7Fp'}
+641 {'id': 734, 'first_name': 'Назаркулова Динар Мансуровна', 'username': 'nazarkulova1008', 'new_password': 'PwnyHBxbyH'}
+642 {'id': 395, 'first_name': 'Найзабеков Асылбек Алымбекович', 'username': 'najzabekov8592', 'new_password': 'fqb2FBbyVe'}
+643 {'id': 865, 'first_name': 'Наматбеков Жумабек', 'username': 'namatbekov5609', 'new_password': 'aF2RYbGc4x'}
+644 {'id': 198, 'first_name': 'Нарбеков Чынарбек Сакенович', 'username': 'narbekov5667', 'new_password': 'vGTB2UaxYq'}
+645 {'id': 849, 'first_name': 'Насиза Исмаил Керимович', 'username': 'nasiza7778', 'new_password': 'CDv3JSgFbj'}
+646 {'id': 317, 'first_name': 'Насиров Манас', 'username': 'nasirov2070', 'new_password': 'FKQteHtJ3q'}
+647 {'id': 656, 'first_name': 'Насиров Садирбек', 'username': 'nasirov6522', 'new_password': '2Eq9TBeLvM'}
+648 {'id': 431, 'first_name': 'Насыров Мелис Джумабаевич', 'username': 'nasyrov8932', 'new_password': 'gK3Str5d2B'}
+649 {'id': 52, 'first_name': 'Нишанов Айдарали Таштанович', 'username': 'nishanov5701', 'new_password': 'QsFp7hvwVQ'}
+650 {'id': 619, 'first_name': 'Нишанов Имарали Аманович', 'username': 'nishanov8560', 'new_password': 'QaUuNRGLVx'}
+651 {'id': 304, 'first_name': 'Ниязалиева Дамира Абаскановна', 'username': 'nijazalieva7911', 'new_password': 'sXezGsWS5G'}
+652 {'id': 390, 'first_name': 'Норзалиев Сагымбек Өзүбекович', 'username': 'norzaliev5016', 'new_password': 'kRzthaWJJK'}
+653 {'id': 403, 'first_name': 'Норузбаев Жылдызбек Турарбекович', 'username': 'noruzbaev5042', 'new_password': 'bHmWDqH9bY'}
+654 {'id': 397, 'first_name': 'Нураков Равил Назаркулович', 'username': 'nurakov6460', 'new_password': 'GheKS86HTD'}
+655 {'id': 965, 'first_name': 'Нурбаев Осконкул Суеркулович', 'username': 'nurbaev2155', 'new_password': 'hMvJPWNTrb'}
+656 {'id': 340, 'first_name': 'Нурдөөлөтов Самарбек Казиевич', 'username': 'nurdөөlөtov5825', 'new_password': 'EkebcUFh8u'}
+657 {'id': 558, 'first_name': 'Нурмаматов Абжамил Мурзаматович', 'username': 'nurmamatov6655', 'new_password': 'kGNAVZDJUN'}
+658 {'id': 580, 'first_name': 'Нурмаматов Тагайбек', 'username': 'nurmamatov2378', 'new_password': 'Re37xW6VJk'}
+659 {'id': 565, 'first_name': 'Нурматов Боходиржон Жалилович', 'username': 'nurmatov3922', 'new_password': 'qqAWa6JtNT'}
+660 {'id': 667, 'first_name': 'Нышанбаев Букасида', 'username': 'nyshanbaev9362', 'new_password': 'vCYYALuLjk'}
+661 {'id': 82, 'first_name': 'Озикеев Мавланбек Овганович', 'username': 'ozikeev1028', 'new_password': 'xm6pNaFawY'}
+662 {'id': 180, 'first_name': 'Озубеков', 'username': 'ozubekov3418', 'new_password': '6vL5cbM3R9'}
+663 {'id': 181, 'first_name': 'Олилов Эльбар Анарбекович', 'username': 'olilov7868', 'new_password': 'Hb67HPgfFa'}
+664 {'id': 700, 'first_name': 'Оморкулов Жапар Парманович', 'username': 'omorkulov2749', 'new_password': '3Tmw5ugErd'}
+665 {'id': 953, 'first_name': 'Оморов Асыкбек\nМамбетакунович', 'username': 'omorov4589', 'new_password': 'SPT6JETuJF'}
+666 {'id': 204, 'first_name': 'Оморов Ашырбек Орозбаевич', 'username': 'omorov8839', 'new_password': 'MyNqUYvbrr'}
+667 {'id': 805, 'first_name': 'Оморова Зульфия Ташиевна', 'username': 'omorova7664', 'new_password': 'Nzsk4yr7gX'}
+668 {'id': 455, 'first_name': 'Омуракунов Марат Калиевич', 'username': 'omurakunov4378', 'new_password': 'CYSXS3J7E3'}
+669 {'id': 298, 'first_name': 'Омуралиев Токтобек', 'username': 'omuraliev8775', 'new_password': 'VGTcWwsR7E'}
+670 {'id': 898, 'first_name': 'Омуралиева Адылбүбү Идрисовна', 'username': 'omuralieva1014', 'new_password': 'jbD2Sv22Y2'}
+671 {'id': 716, 'first_name': 'Омурбеков Сейтбек', 'username': 'omurbekov9645', 'new_password': 'FCTa2vGNH7'}
+672 {'id': 261, 'first_name': 'Ормокеева Эллегия', 'username': 'ormokeeva6370', 'new_password': 'MdHHhEgRD2'}
+673 {'id': 65, 'first_name': 'Ормонов Журсунали Мурзаканович', 'username': 'ormonov4360', 'new_password': 'WsT9nWa7pX'}
+674 {'id': 616, 'first_name': 'Ормонов Каныбек Батырбаевич', 'username': 'ormonov9623', 'new_password': 'HeMefZZAqS'}
+675 {'id': 691, 'first_name': 'Ормонова Халида', 'username': 'ormonova1161', 'new_password': 'XEyTdVHQnY'}
+676 {'id': 927, 'first_name': 'Орозалиев Джумалы Бейшекеевич', 'username': 'orozaliev7711', 'new_password': 'vVszpPbg2Y'}
+677 {'id': 421, 'first_name': 'Орозалиев Канымет Азамбекович', 'username': 'orozaliev6348', 'new_password': 'uFGbSFWGtu'}
+678 {'id': 962, 'first_name': 'Орозалиев Кыдырма Абышевич', 'username': 'orozaliev2663', 'new_password': 'u2dcfE8NPq'}
+679 {'id': 707, 'first_name': 'Орозалиев Осар Өктөмович', 'username': 'orozaliev4465', 'new_password': 'p2DL7NNU43'}
+680 {'id': 676, 'first_name': 'Орозбаев Мамат', 'username': 'orozbaev8613', 'new_password': 'Z6pRreSYFR'}
+681 {'id': 820, 'first_name': 'Орозбаева Салима Карыевна', 'username': 'orozbaeva4782', 'new_password': 'NfHRCKjXBT'}
+682 {'id': 128, 'first_name': 'Орозбеков Мойдун', 'username': 'orozbekov3775', 'new_password': 'PJWFsBr4Uz'}
+683 {'id': 947, 'first_name': 'Орозмаматов Сеитмурат Токтосунович', 'username': 'orozmamatov7103', 'new_password': 'XNcdqfa5UF'}
+684 {'id': 126, 'first_name': 'Орозматов Автандил Маматович', 'username': 'orozmatov3093', 'new_password': 'nTF4JQZ6Gq'}
+685 {'id': 203, 'first_name': 'Орозматов Каныбек Иманалиевич', 'username': 'orozmatov3379', 'new_password': 'CCFqyYJ8XL'}
+686 {'id': 372, 'first_name': 'Орозматов Суйоркул Осмонкулович', 'username': 'orozmatov7927', 'new_password': 'XENZa5jYpf'}
+687 {'id': 287, 'first_name': 'Орозоев Эркинбек Асекович', 'username': 'orozoev7816', 'new_password': 'uZ2ZcX6Hs2'}
+688 {'id': 633, 'first_name': 'Орунбаев Кутманбек Рахманалиевич', 'username': 'orunbaev5765', 'new_password': 'NEt3UgSVP6'}
+689 {'id': 505, 'first_name': 'Осекеев   Салават Турдугулович', 'username': 'osekeev3215', 'new_password': 'MhxwLPYyBF'}
+690 {'id': 219, 'first_name': 'Осмоналиев Тилек Касымбекович', 'username': 'osmonaliev9307', 'new_password': 'KxGW6tLSa6'}
+691 {'id': 884, 'first_name': 'Осмоналиев Эмилбек Балкияевич', 'username': 'osmonaliev3715', 'new_password': 'dHeESEKJSn'}
+692 {'id': 411, 'first_name': 'Осмонканов Джаныбек Молдошевич', 'username': 'osmonkanov8738', 'new_password': 'NWbS4TgNjn'}
+693 {'id': 394, 'first_name': 'Осмонкулов Булбулбек Озубекович', 'username': 'osmonkulov9502', 'new_password': 'XvH3wNJu9W'}
+694 {'id': 541, 'first_name': 'Осмонов Каныбек Кошматович', 'username': 'osmonov7080', 'new_password': '4pXzrZ5xZt'}
+695 {'id': 658, 'first_name': 'Осмонов Курманбек Мадаминович', 'username': 'osmonov4151', 'new_password': 'ARFX8gdLa6'}
+696 {'id': 856, 'first_name': 'Осмонов Сааданбек Кубанычбекович', 'username': 'osmonov2167', 'new_password': 'msENK2gPRP'}
+697 {'id': 795, 'first_name': 'Осмонова Мизара Женишбековна', 'username': 'osmonova9939', 'new_password': 'PSH92z8EQg'}
+698 {'id': 985, 'first_name': 'Оторова Лаазым Раскуловна', 'username': 'otorova5194', 'new_password': 'ceyREs5UDS'}
+699 {'id': 444, 'first_name': 'Очкеев Турдубек Омуракунович', 'username': 'ochkeev3082', 'new_password': 'rD3U8tD2DQ'}
+700 {'id': 1007, 'first_name': 'Пайзилдаев Муктар', 'username': 'pajzildaev4200', 'new_password': 'TACCUCCUup'}
+701 {'id': 539, 'first_name': 'Парманасов Нурали Маматович', 'username': 'parmanasov5221', 'new_password': 'JUpqFJFYFG'}
+702 {'id': 735, 'first_name': 'Паязов Сактанбек', 'username': 'pajazov6898', 'new_password': '7C6G397Tw7'}
+703 {'id': 91, 'first_name': 'Раджапбаева Толгонай Тургунполотовна', 'username': 'radzhapbaeva7446', 'new_password': 'b2gy5Gh2nB'}
+704 {'id': 392, 'first_name': 'Раев Миркан Казакбаевич', 'username': 'raev3653', 'new_password': 'aSQx3hqCRd'}
+705 {'id': 153, 'first_name': 'Раев Нурлан Мамаджанович', 'username': 'raev8043', 'new_password': 'Y3DPawAThX'}
+706 {'id': 846, 'first_name': 'Раев Турдубек Джолдошбаевич', 'username': 'raev7406', 'new_password': '3uk4ZaFCCC'}
+707 {'id': 917, 'first_name': 'Райымкулов Бакыт Кемелбекович', 'username': 'rajymkulov7919', 'new_password': 'jZPmsMJqWE'}
+708 {'id': 325, 'first_name': 'Райымов', 'username': 'rajymov5579', 'new_password': 'S3hbCpeaKa'}
+709 {'id': 179, 'first_name': 'Раманкулов Тимурлан Молдотаевич', 'username': 'ramankulov3811', 'new_password': 'P7trYkHLh9'}
+710 {'id': 173, 'first_name': 'Раманкулова Элмира Сыргатаевна', 'username': 'ramankulova5725', 'new_password': 'WSWYvz3npb'}
+711 {'id': 632, 'first_name': 'Рахимов Ахмаджон Каримович', 'username': 'rahimov5793', 'new_password': '4DZzzXBva8'}
+712 {'id': 33, 'first_name': 'Рахманбердиев Жамалидин', 'username': 'rahmanberdiev9744', 'new_password': 'DJvFF4eqgR'}
+713 {'id': 625, 'first_name': 'Рахманов Дилмурад Дилдорбекович', 'username': 'rahmanov1834', 'new_password': 'Xyt4tXb8tp'}
+714 {'id': 12, 'first_name': 'Рахматуллаев Бобомурат Обломуратович', 'username': 'rahmatullaev2752', 'new_password': 'MkEHnZTCe3'}
+715 {'id': 784, 'first_name': 'Рысалиева Бегайым Борбушалиевна', 'username': 'rysalieva4692', 'new_password': 'xNMWfRjUus'}
+716 {'id': 809, 'first_name': 'Рыскелдиев Эстебес Асанкулович', 'username': 'ryskeldiev4527', 'new_password': 'ZpeJEkZ7g8'}
+717 {'id': 976, 'first_name': 'Рыскулбеков Осмон Абдраимович', 'username': 'ryskulbekov7518', 'new_password': 'SJkBRyqvk8'}
+718 {'id': 810, 'first_name': 'Рыскулов Уран Кубатбекович', 'username': 'ryskulov5840', 'new_password': 'rSUtAc4Nm5'}
+719 {'id': 871, 'first_name': 'Сабыров Съездбек Искарбекович', 'username': 'sabyrov7953', 'new_password': 'HFhyqTnkbv'}
+720 {'id': 437, 'first_name': 'Савранбаев Ауталип Абдыкеримович', 'username': 'savranbaev8773', 'new_password': 'ZDYYUzZ8sn'}
+721 {'id': 472, 'first_name': 'Сагалиев Өзгөрүш Медербекович', 'username': 'sagaliev7355', 'new_password': 'HtBpCthscf'}
+722 {'id': 819, 'first_name': 'Сагинбаев Жениш Тургунбекович', 'username': 'saginbaev7254', 'new_password': 'PqJx2t8DWH'}
+723 {'id': 442, 'first_name': 'Сагынбаев Кубатбек Жумалиевич', 'username': 'sagynbaev6119', 'new_password': 'bNnbqSdWw7'}
+724 {'id': 825, 'first_name': 'Сагынбаев Ринат Казымович', 'username': 'sagynbaev6127', 'new_password': 'WZSkJUhwbm'}
+725 {'id': 518, 'first_name': 'Садабаев Жапарбек Жумашович', 'username': 'sadabaev2327', 'new_password': '5DC59LwnvH'}
+726 {'id': 760, 'first_name': 'Садабаев Мирбек Дуйшенбекович', 'username': 'sadabaev3586', 'new_password': 'tqN8V4teX3'}
+727 {'id': 519, 'first_name': 'Садабаева Эркингуль Джолдошбековна', 'username': 'sadabaeva1789', 'new_password': 'E6pLSxXzDd'}
+728 {'id': 754, 'first_name': 'Садалиев Шейшенбек', 'username': 'sadaliev2044', 'new_password': 'PRqfqjuZqv'}
+729 {'id': 854, 'first_name': 'Садамкулов Мурат Исакулович', 'username': 'sadamkulov5454', 'new_password': 'p53vTmGyq4'}
+730 {'id': 1009, 'first_name': 'Садиков Улугбек Чирмашович', 'username': 'sadikov8711', 'new_password': 'GPQHBx3Fea'}
+731 {'id': 729, 'first_name': 'Садыков Саддам Маматкалыкович', 'username': 'sadykov9525', 'new_password': 'RGE6wD69zF'}
+732 {'id': 322, 'first_name': 'Садыков Турсунбек', 'username': 'sadykov6780', 'new_password': 'UBSV6UdrVj'}
+733 {'id': 280, 'first_name': 'Садыков Эрмек\nКачкынкулбеков ич', 'username': 'sadykov2076', 'new_password': 'f8jQg427HU'}
+734 {'id': 445, 'first_name': 'Садырбаев Бактыбек Туруспекович', 'username': 'sadyrbaev4234', 'new_password': 'eUFSJk6CP7'}
+735 {'id': 350, 'first_name': 'Садыров Надырбай Абдылдаевич', 'username': 'sadyrov3040', 'new_password': 'tJUSntQAA8'}
+736 {'id': 161, 'first_name': 'Саидмунавваров Файзулла Лутфуллаевич', 'username': 'saidmunavvarov5893', 'new_password': 'GwQKYRzhLA'}
+737 {'id': 207, 'first_name': 'Саипов Аскарбек Саипович', 'username': 'saipov7341', 'new_password': 't6N5QHRDxb'}
+738 {'id': 668, 'first_name': 'Саипов Сали Казыбаевич', 'username': 'saipov1407', 'new_password': 'FmmVkt3g4A'}
+739 {'id': 56, 'first_name': 'Саитбек уулу Абдыкайым', 'username': 'saitbek9018', 'new_password': 'PM7BLAKVtQ'}
+740 {'id': 569, 'first_name': 'Сайипов Ибрахимжан Исмаилович', 'username': 'sajipov5735', 'new_password': 'Xbj6tqMChV'}
+741 {'id': 31, 'first_name': 'Сайкалов Кубатбек Сайкалович', 'username': 'sajkalov7661', 'new_password': 'LVASaVdPDE'}
+742 {'id': 152, 'first_name': 'Сайфутдин уулу Асылбек', 'username': 'sajfutdin4109', 'new_password': 'Ruz4ZqjKwD'}
+743 {'id': 354, 'first_name': 'Сакабеков Калыбек Элеманович', 'username': 'sakabekov4380', 'new_password': 'M4eJaWqMjK'}
+744 {'id': 643, 'first_name': 'Салаев Маматазиз Суратович', 'username': 'salaev9794', 'new_password': 'KhrVN2fYsz'}
+745 {'id': 638, 'first_name': 'Самат уулу Артыкали', 'username': 'samat9856', 'new_password': 'PJdkMqhpDy'}
+746 {'id': 673, 'first_name': 'Самидинов Ырысбай Мырзамамытови ч', 'username': 'samidinov7899', 'new_password': 'JbPaHA9XFv'}
+747 {'id': 160, 'first_name': 'Самсалиев Замирбек Курманбекович', 'username': 'samsaliev4089', 'new_password': 's4WdKG72xs'}
+748 {'id': 294, 'first_name': 'Самүдүнова Анипа', 'username': 'samүdүnova1734', 'new_password': '2qawCKZnkS'}
+749 {'id': 202, 'first_name': 'Сапарбек уулу Тынарбек', 'username': 'saparbek1381', 'new_password': 'nXD3zwJtnG'}
+750 {'id': 305, 'first_name': 'Сапарбеков Атайбек Акымкожоевич', 'username': 'saparbekov5712', 'new_password': 'JMy8pyf2Eg'}
+751 {'id': 815, 'first_name': 'Саралаев Бейшенбек Аланбаевич', 'username': 'saralaev3036', 'new_password': 'JbBhYnN7fT'}
+752 {'id': 223, 'first_name': 'Саралаев Калыйбай', 'username': 'saralaev1097', 'new_password': '9tQJ2gd9Wk'}
+753 {'id': 490, 'first_name': 'Сарыбаев  Айбек Азаматович', 'username': 'sarybaev5724', 'new_password': 'rzHNdJvYZw'}
+754 {'id': 817, 'first_name': 'Сарыбаев Турарбек Муктарбекович', 'username': 'sarybaev9769', 'new_password': 'zBKD3nRwdy'}
+755 {'id': 751, 'first_name': 'Сарымсаков Каныбек Кубанычбекович', 'username': 'sarymsakov5840', 'new_password': 'wGcE23hqg4'}
+756 {'id': 299, 'first_name': 'Сасыкулов Шайырбек Токонович', 'username': 'sasykulov4800', 'new_password': 'VTtAfcyETt'}
+757 {'id': 111, 'first_name': 'Сатибалдиев Садырбек Нурпозилович', 'username': 'satibaldiev3450', 'new_password': 'vh3Az5Kwm2'}
+758 {'id': 248, 'first_name': 'Сатиев Бактияр Жунусович', 'username': 'satiev2501', 'new_password': '5ZbK3ERnA5'}
+759 {'id': 974, 'first_name': 'Сатиндиев Жумабек Абакирович', 'username': 'satindiev7078', 'new_password': '5ER9LUF2zV'}
+760 {'id': 813, 'first_name': 'Сатыбалдиев Эркинбек Аалыевич', 'username': 'satybaldiev1964', 'new_password': 'BFY5Hqtazx'}
+761 {'id': 1010, 'first_name': 'Сатыбалдиева Элмира Айылчыевна', 'username': 'satybaldieva9380', 'new_password': 'tsWWjsWy4g'}
+762 {'id': 594, 'first_name': 'Сатыбалдыев Жумабек Туйбасович', 'username': 'satybaldyev8391', 'new_password': 'G55ZvmWkJw'}
+763 {'id': 725, 'first_name': 'Саякбаев Адис Касымбекович', 'username': 'sajakbaev4613', 'new_password': 'd6uHGPvLsR'}
+764 {'id': 834, 'first_name': 'Сейдиев Новруз Ниязович', 'username': 'sejdiev3471', 'new_password': 'KJ8raxBmBZ'}
+765 {'id': 98, 'first_name': 'Сейитбеков Айбек Абдираимович', 'username': 'sejitbekov1320', 'new_password': '4eZrFmdJyU'}
+766 {'id': 483, 'first_name': 'Сейитказиев Асхад Каныбекович', 'username': 'sejitkaziev8265', 'new_password': '4jHM4vdBHA'}
+767 {'id': 307, 'first_name': 'Сейитказиев Качкынбек Эстебесович', 'username': 'sejitkaziev8486', 'new_password': 'FdXHK7CfqH'}
+768 {'id': 451, 'first_name': 'Сейитова Сырга Макиликовна', 'username': 'sejitova6906', 'new_password': 'Ym2fs9S99g'}
+769 {'id': 748, 'first_name': 'Сейталиев', 'username': 'sejtaliev4571', 'new_password': 'wWPyqY6Cc6'}
+770 {'id': 357, 'first_name': 'Сереков Урмат Туратбекович', 'username': 'serekov5398', 'new_password': 'qfxGcYRmxJ'}
+771 {'id': 185, 'first_name': 'Смадияров Теңгебай Мурзатаевич', 'username': 'smadijarov2014', 'new_password': '3M5uBeAK3k'}
+772 {'id': 291, 'first_name': 'Сооромбаев Болот', 'username': 'soorombaev1548', 'new_password': 'G28kDxDydS'}
+773 {'id': 921, 'first_name': 'Сопиев Абдыкадыр Бейшенбаевич', 'username': 'sopiev6317', 'new_password': 'v4Bxx85tgp'}
+774 {'id': 359, 'first_name': 'Сопубеков Шакир Суеркулович', 'username': 'sopubekov1579', 'new_password': 'dtwBfNP7BN'}
+775 {'id': 106, 'first_name': 'Сопуев Курбанбек Калдарбекович', 'username': 'sopuev5257', 'new_password': 'JJeETV8Sfp'}
+776 {'id': 314, 'first_name': 'Соромбаев Жолдошбек Алияскарович', 'username': 'sorombaev8509', 'new_password': 'u2NsGdA46k'}
+777 {'id': 747, 'first_name': 'Сталбек уулу Болотбек', 'username': 'stalbek6753', 'new_password': '3EjGenJ4wD'}
+778 {'id': 936, 'first_name': 'Субанов Айбек Манасбекович', 'username': 'subanov7267', 'new_password': '97xWh54ED3'}
+779 {'id': 912, 'first_name': 'Суеркулов Чыңгыз Замирбекович', 'username': 'suerkulov1093', 'new_password': 'xLTwvACX6r'}
+780 {'id': 347, 'first_name': 'Суйутбеков Эмилбек Талантбекович', 'username': 'sujutbekov1112', 'new_password': 'RAAyUU9mnh'}
+781 {'id': 890, 'first_name': 'Сулайманов Таалайбек Орозобекович', 'username': 'sulajmanov4112', 'new_password': 'qSUcmdjxBt'}
+782 {'id': 507, 'first_name': 'Султан уулу Мелис', 'username': 'sultan7404', 'new_password': 'nMFjadanVW'}
+783 {'id': 385, 'first_name': 'Султаналиев Байболот Кабылбекович', 'username': 'sultanaliev3334', 'new_password': '8T2ECUpMcC'}
+784 {'id': 723, 'first_name': 'Султаналиев Сайпидин Сабырбекович', 'username': 'sultanaliev7625', 'new_password': 'awuVKTKCcP'}
+785 {'id': 374, 'first_name': 'Султанбаев Абдыкадыр Дарданович', 'username': 'sultanbaev3660', 'new_password': 'bhgGaeaCzc'}
+786 {'id': 349, 'first_name': 'Султанкулов Нурадин Калыйнурович', 'username': 'sultankulov6877', 'new_password': 'JGJQ995bM9'}
+787 {'id': 460, 'first_name': 'Султанов Турат', 'username': 'sultanov4807', 'new_password': '9hbmaQsmD8'}
+788 {'id': 552, 'first_name': 'Суранбаева Орозбүбү', 'username': 'suranbaeva1516', 'new_password': 'Q2wxrrKHe3'}
+789 {'id': 267, 'first_name': 'Сурапов Белек Ысагалиевич', 'username': 'surapov3371', 'new_password': 'aFsLWGCVvZ'}
+790 {'id': 310, 'first_name': 'Суюмбаева Бурул Сулаймановна', 'username': 'sujumbaeva8115', 'new_password': 'WAwbv97xxd'}
+791 {'id': 859, 'first_name': 'Сыдыгалиев Максат Имангазиевич', 'username': 'sydygaliev4031', 'new_password': 't9BScqSw8b'}
+792 {'id': 866, 'first_name': 'Сыдыгалиев Мидин Сардарбекович', 'username': 'sydygaliev7226', 'new_password': 'kypTct2qEK'}
+793 {'id': 236, 'first_name': 'Сыдыков', 'username': 'sydykov2672', 'new_password': 'weV5SXTrAv'}
+794 {'id': 657, 'first_name': 'Сыранов Алмаз Абдижапарович', 'username': 'syranov6063', 'new_password': '2QrmR93SM3'}
+795 {'id': 739, 'first_name': 'Сыргаков Жолдошбек Сыргакович', 'username': 'syrgakov2569', 'new_password': 'DjUUQwF9GZ'}
+796 {'id': 837, 'first_name': 'Сырдабаева Саадынкул Сейдахматовна', 'username': 'syrdabaeva5504', 'new_password': 'GM5WVchucf'}
+797 {'id': 540, 'first_name': 'Таабалдыев Адылбек Эргешбаевич', 'username': 'taabaldyev7423', 'new_password': 'YGY3jRwwku'}
+798 {'id': 367, 'first_name': 'Таалайбек уулу Иманбек', 'username': 'taalajbek9604', 'new_password': 'L9afbhRNhT'}
+799 {'id': 227, 'first_name': 'Табалдиев Зарылбек', 'username': 'tabaldiev3020', 'new_password': 'YWXLrLVasq'}
+800 {'id': 957, 'first_name': 'Табылдиев Тынычбек', 'username': 'tabyldiev7405', 'new_password': 'PaqUa3KJx7'}
+801 {'id': 27, 'first_name': 'Тагаев Акмырза', 'username': 'tagaev5131', 'new_password': 'xqhg5B8TEt'}
+802 {'id': 139, 'first_name': 'Тагаев Каныбек Закирович', 'username': 'tagaev7528', 'new_password': '9qRr3Jc9C6'}
+803 {'id': 244, 'first_name': 'Тагаев Марат Төлөмүшович', 'username': 'tagaev4161', 'new_password': '6DawExMTTX'}
+804 {'id': 119, 'first_name': 'Тагайкулов Кадырбек', 'username': 'tagajkulov6138', 'new_password': 'KCLRhrQdny'}
+805 {'id': 156, 'first_name': 'Таджибаев Кадырбек Калмаматович', 'username': 'tadzhibaev3307', 'new_password': 'y6RDbMyCDx'}
+806 {'id': 1012, 'first_name': 'Тажибаев Абдыганы Камчыбекович', 'username': 'tazhibaev3422', 'new_password': 'LbK9K3jERg'}
+807 {'id': 1011, 'first_name': 'Тажибаев Жыргалбек Дүйшеевич', 'username': 'tazhibaev8319', 'new_password': '4TuESnwH7U'}
+808 {'id': 602, 'first_name': 'Тажибаев Кочкор', 'username': 'tazhibaev7991', 'new_password': 'mgepDbCPrd'}
+809 {'id': 711, 'first_name': 'Тажибаев Кубанычбек Рыскулович', 'username': 'tazhibaev2984', 'new_password': '4xMm3vKTL8'}
+810 {'id': 3, 'first_name': 'Тажибаев Кудайберген Тажибаевич', 'username': 'tazhibaev1216', 'new_password': 'KNNwG7gHXd'}
+811 {'id': 701, 'first_name': 'Тажибаев Максатбек Тургунбаевич', 'username': 'tazhibaev3284', 'new_password': 'YccXChh2mt'}
+812 {'id': 428, 'first_name': 'Тазабеков Улан Жалалбекович', 'username': 'tazabekov1242', 'new_password': 'KSrdSSNT6U'}
+813 {'id': 861, 'first_name': 'Тайкашкаев Таалантбек Муратканович', 'username': 'tajkashkaev7172', 'new_password': '9YtYNWLDtD'}
+814 {'id': 387, 'first_name': 'Такеев Курманбек Мукаевич', 'username': 'takeev8722', 'new_password': 'pHw3A9FnT9'}
+815 {'id': 560, 'first_name': 'Ташполотов Илхомжон Рустамович', 'username': 'tashpolotov1361', 'new_password': 'a7SpYHBspE'}
+816 {'id': 94, 'first_name': 'Таштаналиев Абдисамат Сатымкулович', 'username': 'tashtanaliev7400', 'new_password': '388HyZxw4Z'}
+817 {'id': 108, 'first_name': 'Таштанбеков Улугбек Таштанбекович', 'username': 'tashtanbekov4696', 'new_password': 'TFj2sa6dKn'}
+818 {'id': 706, 'first_name': 'Таштанбеков Чынгызбек Арзыбаевич', 'username': 'tashtanbekov8586', 'new_password': 'wJJjYjp7bs'}
+819 {'id': 328, 'first_name': 'Таштанкулов Азамат Асаналиевич', 'username': 'tashtankulov9365', 'new_password': 'KaacGa98xY'}
+820 {'id': 698, 'first_name': 'Таштемиров Арстанбек', 'username': 'tashtemirov1357', 'new_password': '2gFg29uHDG'}
+821 {'id': 717, 'first_name': 'Тейитбаев Жумадил Бердибекович', 'username': 'tejitbaev6114', 'new_password': 'DqzsuETAra'}
+822 {'id': 398, 'first_name': 'Текеев Акматбек Добулбекович', 'username': 'tekeev5473', 'new_password': 'efwCSuDyck'}
+823 {'id': 433, 'first_name': 'Термечиков Айбек Кенешович', 'username': 'termechikov3855', 'new_password': 'wvaJrhx26u'}
+824 {'id': 177, 'first_name': 'Тилеген уулу Кенжеболот', 'username': 'tilegen7216', 'new_password': 'y6qbGvuyTQ'}
+825 {'id': 260, 'first_name': 'Тилекматов Жалынбек Дүйшеналиевич', 'username': 'tilekmatov5268', 'new_password': '8Q7xSDqUaL'}
+826 {'id': 270, 'first_name': 'Тиленчиева Майрамкүл Бекчороевна', 'username': 'tilenchieva8517', 'new_password': 'zHjFtsxSJU'}
+827 {'id': 170, 'first_name': 'Тилепов Бийгазы Токтогазиевич', 'username': 'tilepov8098', 'new_password': 'MzuCbVSkSa'}
+828 {'id': 548, 'first_name': 'Тобокалов Базарбай', 'username': 'tobokalov5635', 'new_password': 'A5PrksLQWj'}
+829 {'id': 801, 'first_name': 'Тогойбаев Амантай Касымович', 'username': 'togojbaev2740', 'new_password': 'ShgCmvmqbd'}
+830 {'id': 914, 'first_name': 'Тойгонбаев Ороз Молдалиевич', 'username': 'tojgonbaev5333', 'new_password': 'T8BqKWKu75'}
+831 {'id': 297, 'first_name': 'Тойматова Шарапат Жамашовна', 'username': 'tojmatova5869', 'new_password': 'yFSSxdcgfq'}
+832 {'id': 165, 'first_name': 'Тойчуев Айти Кулназарович', 'username': 'tojchuev5515', 'new_password': 'Q8kZDe5mT3'}
+833 {'id': 1013, 'first_name': 'Тойчуев Заравшанбек Жакыпбекович', 'username': 'tojchuev7800', 'new_password': '4xsgyu6SAp'}
+834 {'id': 73, 'first_name': 'Токбаев Кален Шабданович', 'username': 'tokbaev6424', 'new_password': 'UngVPDYk4N'}
+835 {'id': 687, 'first_name': 'Токобаев Токтомамат', 'username': 'tokobaev1796', 'new_password': 'kdQmYGNE3d'}
+836 {'id': 109, 'first_name': 'Токоев Азимжан Арзыкулович', 'username': 'tokoev1921', 'new_password': 'AjubsabA4x'}
+837 {'id': 930, 'first_name': 'Токоев Иса\nНасыралиевич', 'username': 'tokoev2829', 'new_password': 'MZCvyhHCD4'}
+838 {'id': 756, 'first_name': 'Токоева Гульмира Кампачиевна', 'username': 'tokoeva5606', 'new_password': 'VVAFvKVVKP'}
+839 {'id': 155, 'first_name': 'Токоматов Касымбек', 'username': 'tokomatov5639', 'new_password': '84uLS3nzQe'}
+840 {'id': 863, 'first_name': 'Токошева Сайрабубу Женишбековна', 'username': 'tokosheva2206', 'new_password': 'dX2xKmazsk'}
+841 {'id': 186, 'first_name': 'Токсобаев Жолдошбек', 'username': 'toksobaev8422', 'new_password': 'eKqvuzFTVv'}
+842 {'id': 857, 'first_name': 'Токталиева Замира', 'username': 'toktalieva5928', 'new_password': '243SUDKa9w'}
+843 {'id': 249, 'first_name': 'Токтобай уулу Абазбек', 'username': 'toktobaj4977', 'new_password': 'Jkk8SZNxup'}
+844 {'id': 473, 'first_name': 'Токтобеков Сапар', 'username': 'toktobekov3109', 'new_password': 'V8txp3yaKu'}
+845 {'id': 924, 'first_name': 'Токтогулов Ербол Бекинович', 'username': 'toktogulov5850', 'new_password': 'kPTHjSUnHW'}
+846 {'id': 851, 'first_name': 'Токтогулов Кенжебек Сабырович', 'username': 'toktogulov3928', 'new_password': 'UR5LFtSL6h'}
+847 {'id': 125, 'first_name': 'Токтогулов Нурбек Сатымкулович', 'username': 'toktogulov4853', 'new_password': 'abayLkEkRL'}
+848 {'id': 159, 'first_name': 'Токтогулов Шерикпай Керимбаевич', 'username': 'toktogulov3019', 'new_password': 'XbZuH3qSgQ'}
+849 {'id': 163, 'first_name': 'Токтогулов Эшпай Надирович', 'username': 'toktogulov9512', 'new_password': 'rm9zCzYfYu'}
+850 {'id': 579, 'first_name': 'Токторов Тентимиш', 'username': 'toktorov1288', 'new_password': 'ZuebSdwQLH'}
+851 {'id': 599, 'first_name': 'Токтошев Жанышбек Сыдыкович', 'username': 'toktoshev1385', 'new_password': 'y2HSyujjMz'}
+852 {'id': 420, 'first_name': 'Токчулуков Бектурсун Абакирович', 'username': 'tokchulukov6337', 'new_password': 'YMV5MBaXAd'}
+853 {'id': 406, 'first_name': 'Тологонов Эдил Байболотович', 'username': 'tologonov2851', 'new_password': 'CpZbEwLteh'}
+854 {'id': 862, 'first_name': 'Толокулов Бектурусун Асанович', 'username': 'tolokulov4470', 'new_password': 'tRQR8HaCjA'}
+855 {'id': 493, 'first_name': 'Толукбаев Саламат Карыбекович', 'username': 'tolukbaev2546', 'new_password': '3EFu2QsrhK'}
+856 {'id': 28, 'first_name': 'Топчилов Токтобай', 'username': 'topchilov8380', 'new_password': 'nUbCbfvLr9'}
+857 {'id': 932, 'first_name': 'Торгоев Советбек Кутанович', 'username': 'torgoev9320', 'new_password': '2KPUpC2zJb'}
+858 {'id': 380, 'first_name': 'Торобеков Мухамеджан Турдумамбетови ч', 'username': 'torobekov1992', 'new_password': 'pzuejJBT7b'}
+859 {'id': 132, 'first_name': 'Торогелдиев Муктар Казакович', 'username': 'torogeldiev2922', 'new_password': 'bUAuee8yCc'}
+860 {'id': 209, 'first_name': 'Тугелов Эмиралы Калмаматович', 'username': 'tugelov7110', 'new_password': 'L3KRAdDm58'}
+861 {'id': 694, 'first_name': 'Тудубаев Бактыбек Дадаевич', 'username': 'tudubaev8446', 'new_password': '4GvHDYvF9m'}
+862 {'id': 791, 'first_name': 'Туйбаев Таалайбек Мырзапаевич', 'username': 'tujbaev5786', 'new_password': 'a7HjRWxUbY'}
+863 {'id': 622, 'first_name': 'Туйчиев Шеркузу', 'username': 'tujchiev1606', 'new_password': 'nArTnrf3Lj'}
+864 {'id': 963, 'first_name': 'Туменбаева Жаныл Туменбаевна', 'username': 'tumenbaeva6457', 'new_password': 'GYDhWJVyXy'}
+865 {'id': 902, 'first_name': 'Туратбеков Айбек Туратбекович', 'username': 'turatbekov4449', 'new_password': '4fsjx8GP8Q'}
+866 {'id': 245, 'first_name': 'Турганалиев Муратбек Астапаевич', 'username': 'turganaliev9760', 'new_password': 'PYbbkRJrYk'}
+867 {'id': 526, 'first_name': 'Турганбаев\nОлег Зарлыкович', 'username': 'turganbaev\noleg3596', 'new_password': 'FhAtThgxRX'}
+868 {'id': 693, 'first_name': 'Турганбаев Аскадбек Бектемирович', 'username': 'turganbaev2510', 'new_password': 'JCBUJwmVSN'}
+869 {'id': 592, 'first_name': 'Турганбаев Жыргалбек', 'username': 'turganbaev1423', 'new_password': '2gsux9Qvwk'}
+870 {'id': 510, 'first_name': 'Турганбаев Качкымбай Молдобаевич', 'username': 'turganbaev8534', 'new_password': 'kdLsbaxMsY'}
+871 {'id': 500, 'first_name': 'Турганбаева Чолпон Султашовна', 'username': 'turganbaeva1996', 'new_password': 'EXgeFPt6Uf'}
+872 {'id': 365, 'first_name': 'Тургуналиев Анарбек Джумалиевич', 'username': 'turgunaliev5077', 'new_password': 'FTJ5fPgwrm'}
+873 {'id': 929, 'first_name': 'Тургунбаев Арыстанбек Егимбаевич', 'username': 'turgunbaev6563', 'new_password': 'MmQqWy89uV'}
+874 {'id': 826, 'first_name': 'Турдакинов Азизхан Медетканович', 'username': 'turdakinov7389', 'new_password': 'mfyCyYbwVG'}
+875 {'id': 320, 'first_name': 'Турдалиев Анарбек Апышович', 'username': 'turdaliev4750', 'new_password': 'J6PWuvm6c6'}
+876 {'id': 621, 'first_name': 'Турдалиев Садыкжан Турдалиевич', 'username': 'turdaliev6232', 'new_password': '2CY6TdnVAc'}
+877 {'id': 718, 'first_name': 'Турдалиева Айжамал Айбашовна', 'username': 'turdalieva7669', 'new_password': 'kVNNDMKtvF'}
+878 {'id': 95, 'first_name': 'Турду уулу', 'username': 'turdu3683', 'new_password': 'tNVQKRV7VS'}
+879 {'id': 5, 'first_name': 'Турдубаев Жаныбек Жээналиевич', 'username': 'turdubaev9580', 'new_password': 'zs5B3MggFz'}
+880 {'id': 1014, 'first_name': 'Турдубаев Кантөрө Таирович', 'username': 'turdubaev1212', 'new_password': 'sf3xK8sshY'}
+881 {'id': 89, 'first_name': 'Турдубаев Муратбек Сагынович', 'username': 'turdubaev4597', 'new_password': 'tftTbrVHTr'}
+882 {'id': 286, 'first_name': 'Турдубек уулу Талант', 'username': 'turdubek1951', 'new_password': 'BbHvPHB2PZ'}
+883 {'id': 689, 'first_name': 'Турдуев Бекмамат Талипович', 'username': 'turduev7223', 'new_password': 'yUharebKpz'}
+884 {'id': 476, 'first_name': 'Турдукеев Замирбек', 'username': 'turdukeev8817', 'new_password': 'bewVeevQYg'}
+885 {'id': 44, 'first_name': 'Турдумаматов Эргаш', 'username': 'turdumamatov3930', 'new_password': 'u6Wk8QweY3'}
+886 {'id': 251, 'first_name': 'Турдумамбет уулу Белекбек', 'username': 'turdumambet5524', 'new_password': 'fNjQUKww2R'}
+887 {'id': 943, 'first_name': 'Турдумамбетов Мухаммет', 'username': 'turdumambetov3379', 'new_password': 'yQmKednwQ7'}
+888 {'id': 523, 'first_name': 'Турдуманбетов Рысбек Ташбекович', 'username': 'turdumanbetov2349', 'new_password': 'MekPh2AMBA'}
+889 {'id': 419, 'first_name': 'Турсуналиев Мирбек Дамирович', 'username': 'tursunaliev6817', 'new_password': 'ukwg6BvPxn'}
+890 {'id': 521, 'first_name': 'Турсуналиев Толонбай Чонбашевич', 'username': 'tursunaliev4410', 'new_password': 'ZUPNLU8V4E'}
+891 {'id': 255, 'first_name': 'Турсунбаев Нурбек Токонович', 'username': 'tursunbaev4136', 'new_password': 'Xp9MEhAB8u'}
+892 {'id': 418, 'first_name': 'Турусбеков Бактыбек Сагындыкович', 'username': 'turusbekov2720', 'new_password': 'rEavxRWmaa'}
+893 {'id': 69, 'first_name': 'Тууганбаев Тынчтыкбек Асанбекович', 'username': 'tuuganbaev6736', 'new_password': 'uNHBuZvvVV'}
+894 {'id': 864, 'first_name': 'Туфанов Равиль Атамшаевич', 'username': 'tufanov6985', 'new_password': 'Gmt5prdbU9'}
+895 {'id': 471, 'first_name': 'Тынымсейитов Эрлан Сагынбекович', 'username': 'tynymsejitov9678', 'new_password': 'g6A23f5xjP'}
+896 {'id': 300, 'first_name': 'Тюменбаева Нурлан Модушовна', 'username': 'tjumenbaeva4039', 'new_password': 'K3FWQGnz7E'}
+897 {'id': 504, 'first_name': 'Тюпеев Руслан Сагынбекович', 'username': 'tjupeev9897', 'new_password': 's2AB48Hsx8'}
+898 {'id': 112, 'first_name': 'Төлөнбаев Айтбек Абдуллабекович', 'username': 'tөlөnbaev3735', 'new_password': 'MRTGDSpVP3'}
+899 {'id': 555, 'first_name': 'Төрөгелдиев Асанбай Эшенкулович', 'username': 'tөrөgeldiev3995', 'new_password': 'erVAdXp6GH'}
+900 {'id': 1015, 'first_name': 'Уларов Талгат\nМуктарбекович', 'username': 'ularov8627', 'new_password': 'Sf6P2ZSXhD'}
+901 {'id': 140, 'first_name': 'Умарбеков Абдурашит', 'username': 'umarbekov9682', 'new_password': 'teepeXQ7zv'}
+902 {'id': 567, 'first_name': 'Умаров Вахап', 'username': 'umarov4034', 'new_password': '9djUAxBPX8'}
+903 {'id': 542, 'first_name': 'Умаров Камалдин Мамарасулович', 'username': 'umarov3275', 'new_password': 'sKG9ecXvpm'}
+904 {'id': 333, 'first_name': 'Уметалиев Таштанбек Мамбеткожое вич', 'username': 'umetaliev8738', 'new_password': 'ujGMyCGY2J'}
+905 {'id': 975, 'first_name': 'Уметалиев Өмүрбек Асылбекович', 'username': 'umetaliev7180', 'new_password': 'BSrwDH3zW6'}
+906 {'id': 211, 'first_name': 'Уметбеков Эдуард Махмуджанович', 'username': 'umetbekov6499', 'new_password': 'MXKZSDMW3z'}
+907 {'id': 517, 'first_name': 'Умралиева Бактыгуль Макеновна', 'username': 'umralieva9768', 'new_password': 'AfPtt7dtZd'}
+908 {'id': 860, 'first_name': 'Умурзаков Белек Бейшеевич', 'username': 'umurzakov3485', 'new_password': 'FXcbW8pf4y'}
+909 {'id': 595, 'first_name': 'Уркунов Бийболот Султанмамытови ч', 'username': 'urkunov8839', 'new_password': 'HTEe6rFKQr'}
+910 {'id': 212, 'first_name': 'Урматаалиев Чынгыз Урматаалиевич', 'username': 'urmataaliev7382', 'new_password': 'hTjgF2qBRS'}
+911 {'id': 315, 'first_name': 'Усеналиев Залкарбек Усеналиевич', 'username': 'usenaliev4724', 'new_password': 'TyW6xdr8Za'}
+912 {'id': 379, 'first_name': 'Усеналиев Зарылбек Төлөнович', 'username': 'usenaliev9404', 'new_password': 'U2DbrUrHCd'}
+913 {'id': 737, 'first_name': 'Усенбаев Бекболсун Акунбаевич', 'username': 'usenbaev3012', 'new_password': 'tsc94ArRn3'}
+914 {'id': 105, 'first_name': 'Усонбаев Абдыганы Усонбаевич', 'username': 'usonbaev8036', 'new_password': 'Yfb9vwzZQH'}
+915 {'id': 951, 'first_name': 'Усупов\nТилек Сабырович', 'username': 'usupov\ntilek5993', 'new_password': 'MpPVprqwBM'}
+916 {'id': 422, 'first_name': 'Усупов Улан Саламатович', 'username': 'usupov7189', 'new_password': 'pe3FbHjaGy'}
+917 {'id': 893, 'first_name': 'Усупов Эмилбек Сурналиевич', 'username': 'usupov4271', 'new_password': '3ZYRmuSRgV'}
+918 {'id': 960, 'first_name': 'Утурова Эрмек Джолдошевна', 'username': 'uturova2089', 'new_password': 'qcD96UvfsS'}
+919 {'id': 414, 'first_name': 'Учкурткаев Замирбек Турдубекович', 'username': 'uchkurtkaev1093', 'new_password': 'NmPHzsbt6E'}
+920 {'id': 43, 'first_name': 'Хаджимуратов Улукбек Абдурахманович', 'username': 'hadzhimuratov7702', 'new_password': 'M9ZdS52sDT'}
+921 {'id': 61, 'first_name': 'Халбеков Авазбек Кадырович', 'username': 'halbekov7446', 'new_password': 'sRpFGKSsv8'}
+922 {'id': 47, 'first_name': 'Халилов Муроджон', 'username': 'halilov6543', 'new_password': 'HBSCy8BWkT'}
+923 {'id': 141, 'first_name': 'Хамдамов Авазбек Шакиржанович', 'username': 'hamdamov9248', 'new_password': 'jxc5XErYee'}
+924 {'id': 2, 'first_name': 'Худайбердиев Мухтар Байзакович', 'username': 'hudajberdiev7330', 'new_password': 'bMAxTDkDnA'}
+925 {'id': 931, 'first_name': 'Чекиров Мамбеткерим Беккелдиевич', 'username': 'chekirov3018', 'new_password': 'LqLaREFR3P'}
+926 {'id': 572, 'first_name': 'Чонмурунов Абдурасул Ахматович', 'username': 'chonmurunov3254', 'new_password': '6PhaC7cTYd'}
+927 {'id': 327, 'first_name': 'Чоюбеков Бердикул Жанболотович', 'username': 'chojubekov4910', 'new_password': 'h7Kn9vhCPK'}
+928 {'id': 827, 'first_name': 'Чубаков Кенжебек Жайчыбекович', 'username': 'chubakov9860', 'new_password': 'Y6fTvWDevs'}
+929 {'id': 798, 'first_name': 'Чукуев Арабай Аманкулович', 'username': 'chukuev5704', 'new_password': 'c6WSdzHCUZ'}
+930 {'id': 429, 'first_name': 'Чынарбекова Клара', 'username': 'chynarbekova3753', 'new_password': '49zeRaQAWg'}
+931 {'id': 611, 'first_name': 'Чынгараев Мырзамат Мадосмонович', 'username': 'chyngaraev8375', 'new_password': '4Rz3bZgZ6B'}
+932 {'id': 499, 'first_name': 'Чынгышбаев Асанкадыр Ногойбаевич', 'username': 'chyngyshbaev1984', 'new_password': 'TVBRB2h4pV'}
+933 {'id': 388, 'first_name': 'Шабданбеков Кумар', 'username': 'shabdanbekov1147', 'new_password': 'ZEyfqkgZCC'}
+934 {'id': 908, 'first_name': 'Шабралиев Алмаз Эсенбекович', 'username': 'shabraliev7601', 'new_password': 'sNBKkv3rLn'}
+935 {'id': 87, 'first_name': 'Шадыбекова Гүлмайрам Сагынбаевна', 'username': 'shadybekova6857', 'new_password': 'C5UF9Ycy7E'}
+936 {'id': 24, 'first_name': 'Шадыманова Бубуфарида', 'username': 'shadymanova3685', 'new_password': 'gMWr59RPPe'}
+937 {'id': 79, 'first_name': 'Шайдиев Абдибали Тургуналиевич', 'username': 'shajdiev2299', 'new_password': '7FQKMUKnTK'}
+938 {'id': 438, 'first_name': 'Шайылдаев Бейшебай Ысакович', 'username': 'shajyldaev2106', 'new_password': '6v7G6F8UEJ'}
+939 {'id': 191, 'first_name': 'Шайырбек уулу Умид', 'username': 'shajyrbek4773', 'new_password': 'SVAkFjCHKP'}
+940 {'id': 981, 'first_name': 'Шакиров Шабданбек Аманбаевич', 'username': 'shakirov1335', 'new_password': 'zn7A4kWBuz'}
+941 {'id': 497, 'first_name': 'Шакиров Эльзар Жумакадырович', 'username': 'shakirov9199', 'new_password': 'WBygWc2T3x'}
+942 {'id': 336, 'first_name': 'Шамбетов Курманбек', 'username': 'shambetov1249', 'new_password': '2FR7u2bkgq'}
+943 {'id': 776, 'first_name': 'Шамбетова Панур', 'username': 'shambetova1188', 'new_password': '95sr4f6xep'}
+944 {'id': 296, 'first_name': 'Шамшидинов Шаршенбек', 'username': 'shamshidinov1526', 'new_password': '97K9zvhF5C'}
+945 {'id': 11, 'first_name': 'Шамшиев Каттабек Мансурбаевич', 'username': 'shamshiev7533', 'new_password': 'T4ZDhmeyeP'}
+946 {'id': 48, 'first_name': 'Шамшиев Орозбек', 'username': 'shamshiev8342', 'new_password': '5qx7QGQ2Us'}
+947 {'id': 1016, 'first_name': 'Шамшиева Кыздаркан Сейитматовна', 'username': 'shamshieva7025', 'new_password': 'd24MxSLHSw'}
+948 {'id': 513, 'first_name': 'Шамырканов Жумагул Бердибаевич', 'username': 'shamyrkanov1500', 'new_password': 'hF2ncnqv93'}
+949 {'id': 919, 'first_name': 'Шарипов Кубанчыбек Турдакунович', 'username': 'sharipov6565', 'new_password': 'LaCVKwLAvp'}
+950 {'id': 176, 'first_name': 'Шарипов Учбай Султанкулович', 'username': 'sharipov6481', 'new_password': 'w2JgykPLea'}
+951 {'id': 874, 'first_name': 'Шаршеев Анарбек Джумабекович', 'username': 'sharsheev2787', 'new_password': 'EnN95uesvA'}
+952 {'id': 266, 'first_name': 'Шаршембиева Бейшебүбү Султановна', 'username': 'sharshembieva6786', 'new_password': 'Eq4KuzyFyX'}
+953 {'id': 253, 'first_name': 'Шаршенаалы уулу Айбек', 'username': 'sharshenaaly6089', 'new_password': 'yzKbXAkBLk'}
+954 {'id': 226, 'first_name': 'Шаршенбаев Алтымыш', 'username': 'sharshenbaev9187', 'new_password': 'B6jM6b2scp'}
+955 {'id': 743, 'first_name': 'Шаршенов Ахматбек Кубанычбекович', 'username': 'sharshenov4451', 'new_password': 'Fu4pJyJWVp'}
+956 {'id': 766, 'first_name': 'Шафиев Ислом', 'username': 'shafiev4870', 'new_password': 'HZPC2YfTvy'}
+957 {'id': 789, 'first_name': 'Шейшенбеков Тилек Асанбаевич', 'username': 'shejshenbekov3205', 'new_password': 'JLxGMbFzjG'}
+958 {'id': 75, 'first_name': 'Шералиева Наркыз Жакыпбековна', 'username': 'sheralieva7503', 'new_password': 'ar4PZ9Wrhh'}
+959 {'id': 952, 'first_name': 'Шериппаев Култашир Сулайманович', 'username': 'sherippaev3164', 'new_password': '9EpWRyWzNY'}
+960 {'id': 574, 'first_name': 'Шерматов Абабакир', 'username': 'shermatov1372', 'new_password': 'nGveCJ67HY'}
+961 {'id': 292, 'first_name': 'Шорукова Айымкан Ысмановна', 'username': 'shorukova7977', 'new_password': 'qfXNK5ugY3'}
+962 {'id': 852, 'first_name': 'Шувалова Оксана Владимировна', 'username': 'shuvalova9038', 'new_password': 'RupmSLygJ9'}
+963 {'id': 362, 'first_name': 'Шугурбекова Гуля Узембаевна', 'username': 'shugurbekova7515', 'new_password': 'hLY3VyDUA9'}
+964 {'id': 449, 'first_name': 'Ыдырысов Фархад Эмилбекович', 'username': 'ydyrysov4873', 'new_password': 'QkbzBF7kmQ'}
+965 {'id': 346, 'first_name': 'Ызабеков Медеркул Сагынбекович', 'username': 'yzabekov3326', 'new_password': 'Ts9ZvD7dBQ'}
+966 {'id': 265, 'first_name': 'Ыманкулов Маратбек Ленарович', 'username': 'ymankulov1244', 'new_password': '6vJmWTNwFL'}
+967 {'id': 41, 'first_name': 'Ысаков Автандил Курсанович', 'username': 'ysakov3590', 'new_password': 'B63yPSTYxJ'}
+968 {'id': 731, 'first_name': 'Ыскакова Шааркан', 'username': 'yskakova4059', 'new_password': 'RrDYWhzSUQ'}
+969 {'id': 537, 'first_name': 'Ысмаилов Маматибраим', 'username': 'ysmailov7717', 'new_password': 'XXJr7ZqD5e'}
+970 {'id': 408, 'first_name': 'Ысырайылов Тамчыбек Шамурович', 'username': 'ysyrajylov4915', 'new_password': 'vnJAteLJY2'}
+971 {'id': 331, 'first_name': 'Эгембердиев', 'username': 'egemberdiev7202', 'new_password': 'wPj3M9BFm3'}
+972 {'id': 511, 'first_name': 'Эгембердиев', 'username': 'egemberdiev2746', 'new_password': 'DvpnE2WUqs'}
+973 {'id': 812, 'first_name': 'Эгембердиев Аскарбек Салдатпекович', 'username': 'egemberdiev3524', 'new_password': 'DzkckU6QnP'}
+974 {'id': 123, 'first_name': 'Эгембердиев Кубанычбек Мырзамамытови ч', 'username': 'egemberdiev2345', 'new_password': 'UPtVygrwzs'}
+975 {'id': 727, 'first_name': 'Эгембердиев Кубатбек Токтосунович', 'username': 'egemberdiev9371', 'new_password': 'exkLjsg3ZK'}
+976 {'id': 547, 'first_name': 'Эгембердиев Мурат', 'username': 'egemberdiev2508', 'new_password': 'kaskmhaaHC'}
+977 {'id': 188, 'first_name': 'Эгембердиев Сейдалы Сатыбалдыевич', 'username': 'egemberdiev2367', 'new_password': 'v2BZQevaJm'}
+978 {'id': 51, 'first_name': 'Эгембердиев Таир Абсатарович', 'username': 'egemberdiev9081', 'new_password': '6mmxurynds'}
+979 {'id': 378, 'first_name': 'Эгембердиев Тургумбай Рыскулбекович', 'username': 'egemberdiev9979', 'new_password': 'wAUnbKLW2n'}
+980 {'id': 316, 'first_name': 'Эдигеев Марат\nКадырбекович', 'username': 'edigeev2226', 'new_password': 'PF9Rcx4RpV'}
+981 {'id': 216, 'first_name': 'Элтуйбасов Таалайбек', 'username': 'eltujbasov3525', 'new_password': 'RV233scBbh'}
+982 {'id': 76, 'first_name': 'Эмилбек\nуулу Талантбек', 'username': 'emilbek\nuulu1680', 'new_password': 'sQYCDCXPuc'}
+983 {'id': 194, 'first_name': 'Эпеев Кадырбек Молдожумаевич', 'username': 'epeev7945', 'new_password': 'Y9cQApf9Ex'}
+984 {'id': 192, 'first_name': 'Эралиев Токтобай Турсуниязович', 'username': 'eraliev5204', 'new_password': 'wURf2FfRgx'}
+985 {'id': 696, 'first_name': 'Эргешов Каныбек Эргешович', 'username': 'ergeshov5035', 'new_password': 'ZudM8RUd79'}
+986 {'id': 88, 'first_name': 'Эргешов Мейкин Эргешович', 'username': 'ergeshov9248', 'new_password': 'Xj53EY5J6F'}
+987 {'id': 135, 'first_name': 'Эргешов Молдали Эрмаматович', 'username': 'ergeshov6819', 'new_password': 'zHR3JyhDXg'}
+988 {'id': 685, 'first_name': 'Эргешов Талантбек Орозбаевич', 'username': 'ergeshov1036', 'new_password': 'DRhfJPK28b'}
+989 {'id': 612, 'first_name': 'Эргешов Турдумамат', 'username': 'ergeshov8860', 'new_password': 'MLGW6DkmPU'}
+990 {'id': 50, 'first_name': 'Эркинбаева Бегайым Мамасыдыковна', 'username': 'erkinbaeva9646', 'new_password': 'wnNP5kRxG3'}
+991 {'id': 554, 'first_name': 'Эрматов Зарипбек Абдыкалыкович', 'username': 'ermatov6009', 'new_password': 'BzmkxPAAsj'}
+992 {'id': 149, 'first_name': 'Эрматов Шавданбек Ботобекович', 'username': 'ermatov7580', 'new_password': 'CAyREcjZ5S'}
+993 {'id': 831, 'first_name': 'Эрса Рамза Мацунович', 'username': 'ersa1666', 'new_password': 'jmEuwTZZ8f'}
+994 {'id': 726, 'first_name': 'Эсеналиев Эмиль Эсеналиевич', 'username': 'esenaliev7115', 'new_password': 'EjvxuYrc52'}
+995 {'id': 551, 'first_name': 'Эсенбаев Сагынбек Жусубалиевич', 'username': 'esenbaev9795', 'new_password': 'gCm7CYxwXS'}
+996 {'id': 877, 'first_name': 'Эсенбаев Салбар', 'username': 'esenbaev3766', 'new_password': 'EMzaCm5udp'}
+997 {'id': 474, 'first_name': 'Эсенгелдиев Бакыт Камалидинович', 'username': 'esengeldiev7226', 'new_password': 'gQU6qCAKvq'}
+998 {'id': 330, 'first_name': 'Эсенгулов Бактыбек Айтбаевич', 'username': 'esengulov2557', 'new_password': 'eCH6WZs5Uw'}
+999 {'id': 883, 'first_name': 'Эсенканов Нурбек Жанатович', 'username': 'esenkanov4698', 'new_password': 'kYMcs4PMYF'}
+1000 {'id': 530, 'first_name': 'Эсентуров Асылмырза Нурбекович', 'username': 'esenturov4661', 'new_password': '2EHBh8hehD'}
+1001 {'id': 59, 'first_name': 'Эшбаев Маматкул', 'username': 'eshbaev3394', 'new_password': 'u9XVxxXx6w'}
+1002 {'id': 662, 'first_name': 'Эшимбаев Абсатар Көчкөнбаевич', 'username': 'eshimbaev4553', 'new_password': 'aDndtXFj8t'}
+1003 {'id': 102, 'first_name': 'Юлдашев Нурланбек Токтакулович', 'username': 'juldashev1809', 'new_password': 'NT9EszMpzV'}
+1004 {'id': 120, 'first_name': 'Юлдашев Рустамбек Камилович', 'username': 'juldashev7386', 'new_password': 'fHVf8S2Ken'}
+1005 {'id': 650, 'first_name': 'Юсупов мустафо Нурмаматович', 'username': 'jusupov4902', 'new_password': 'PA2Z5hCNUd'}
+1006 {'id': 321, 'first_name': 'Үсөнов Аманбек Карыбекович', 'username': 'үsөnov2190', 'new_password': 'CYCxx4ufPR'}
+1007 {'id': 182, 'first_name': 'Үтүров Апсатар Биримкулович', 'username': 'үtүrov9792', 'new_password': 'rrbMuvEJyv'}
+1008 {'id': 175, 'first_name': 'Өзөрбай уулу Таалайбек', 'username': 'өzөrbaj6047', 'new_password': 'xQVXjZtK9t'}
+1009 {'id': 470, 'first_name': 'Өмүралиев Канатбек Турсуналиевич', 'username': 'өmүraliev8967', 'new_password': 'GVpT5pcXyv'}
+1010 {'id': 283, 'first_name': 'Өмүров Алмасбек Чотурович', 'username': 'өmүrov8353', 'new_password': 'PeENune5N2'}
+1011 {'id': 337, 'first_name': 'Өмүрова', 'username': 'өmүrova3578', 'new_password': 'AmdkrJQdrR'}
+1012 {'id': 172, 'first_name': 'Өскөнбаев Казымалы Сопиевич', 'username': 'өskөnbaev3505', 'new_password': 'JrfHYmyfDD'}
+1013 {'id': 199, 'first_name': 'Өскөнбаева Айнура Чотоевна', 'username': 'өskөnbaeva9763', 'new_password': 'c6dhGSMxRp'}
+1014 {'id': 15, 'first_name': 'Өсөров Кудайберди Маматкулович', 'username': 'өsөrov2170', 'new_password': 'tDXzUME3Mm'}
